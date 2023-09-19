@@ -1,5 +1,88 @@
 # Space Marine Index
-## Update v1.0
+## Update v1.1
+###### 19/09/2023
+### General
+* Updated Point values of all units to match the Munitorum Field Manual v1.3.
+
+* Added the Index Cards v1.2 Changes.
+
+* Removed the profile abilities `Re-roll all possible failed hit rolls (if attacker)` & `Re-roll all possible failed wound rolls (if attacker)` from all profiles. Add these to the Global Modifiers to simulate the Army Rule `Oath of Moment`.
+
+* The following units have had the `-1 to hit roll (if defender)` ability changed to `-1 to hit roll (if attacker)` this now actually simulates the `Damaged: 1-# Wounds Remaining` ability:
+    * **Invictor Tactical Warsuit**
+    * **Redemptor Dreadnought**
+    * **Brutalis Dreadnought**
+    * **Ballistus Dreadnought**
+    * **Hunter**
+    * **Stalker**
+    * **Whirlwind**
+    * **Predator Destructor**
+    * **Gladiator Lancer**
+    * **Gladiator Reaper**
+    * **Gladiator Valiant**
+    * **Vindicator**
+    * **Land Raider**
+    * **Land Raider Crusader**
+    * **Land Raider Redeemer**
+    * **Repulsor**
+    * **Repulsor Executioner**
+    * **Storm Raven Gunship**
+
+### New Unit Profiles
+
+* **Hammerfall Bunker:** Located within the SM-Vehicles file.
+
+### HQ Changes
+* **Captain, Primaris Captain:** Changed `3 extra attacks` profile ability to `Increase attacks by 3`.
+* **Primaris Techmarine:** Added the weapon profile `Omnissian power axe (Vengeance of the Omnissiah)`. Use this profile to simulate the `Vengeance of the Omnissiah` ability.
+* **Techmarine:**
+  * Removed `Combi-weapon` to make room for `Omnissian power axe (Vengeance of the Omnissiah)`.
+  * Added the weapon profile `Omnissian power axe (Vengeance of the Omnissiah)`. Use this profile to simulate the `Vengeance of the Omnissiah` ability.
+* **Lieutenant with combi-weapon:** `Paired combat blades` now has the `[ANTI-TYRANIDS 4+]` weapon ability.
+* **Bladeguard Ancient:** Changed `1 extra attack` profile ability to `Increase attacks by 1`.
+* **Judiciar:** Changed `# extra attack` profile ability to `Increase attacks by #`.
+
+### Infantry/Mounted Changes
+
+* **Centurion Assault squad:** added the `Fortification` keyword to the unit ability `Critical hit : 2 extra hits`.
+
+* **Assault squad:** Weapon profile `Close combat weapon` added.
+* **Assault squad with jump pack:** Weapon profile `Close combat weapon` added.
+* **Command squad:** Weapon profile `Grav-gun` changed Damage from **1** to **2**.
+* **Scout squad:** Weapon profile `Power weapon` changed Strength from **4** to **5**.
+* **Vanguard veteran squad:** Weapon profile `Grav-pistol` changed Damage from **1** to **2**.
+* **Vanguard Veteran Squad with Jump Packs:** Weapon profile `Grav-pistol` changed Damage from **1** to **2**.
+* **Bladeguard veteran squad:** Implemented the `Shields of the Imperium` ability as a profile ability.
+
+* **Incursor squad x5:** Removed the `Oath of Moment` Weapons as they're no longer needed.
+
+* **Desolation Squad:**
+  * Renamed from `Desolation Squad x5` to `Desolation Squad` now that it is a fixed squad size of 5.
+  *  Added an `Ignores Cover` profile ability, enable this and disable the `-1 to hit roll` profile ability to simulate the `Targeter Optics` ability.
+
+* **Devastator Squad:** Added an `Ignores Cover` profile ability, enable this to simulate the `Signum` ability.
+    
+### Vehicles Changes
+
+* **Ironclad dreadnought:** `Siege-breaker protocols` Now included as an ability.
+
+* **Brutalis dreadnought:** Added `Brutalis Charge` ability as a weapon profile, disable re-rolls when simulating this.
+
+* **Ballistus Dreadnought:** Removed one of the `Re-roll all possible failed hit rolls (if attacker)` abilities.
+
+* **Land Speeder Tornado:** Added `Strafing Enfilade` ability as a weapon profile, disable re-rolls when simulating this.
+
+* **Hunter:** The ability `Hunter Missile Targeting` that is present on the `skyspear missile launcher` was incorrectly targeting the keyword `FLY` instead of `MONSTER` this has now been corrected.
+  
+* **Gladiator Lancer:** Added a weapon profile `Lancer laser destroyer (Aquilon Optics)` for simulating the `Aquilon Optics` ability, adjust the damage range to your choice. Copy these re-roll abilities to another weapon if you wish to simulate it on that.
+  
+* **Gladiator Valiant:** `Twin las-talon` now has two weapon profiles to choose from to simulate `Ferocious Assault`.
+
+* **Impulsor:** Toughness changed from 11 to 9 and Wounds changed from 9 to 11.
+
+<details>
+<summary><h2>Update v1.0</h2></summary>
+
 ###### 25/07/2023
 ***NOTE: Some of the descriptions below could be inaccurate as this took a while to create and Unitcrunch has had updates since.***
 ### General
@@ -102,3 +185,5 @@ This index is split into 3 categories:
 * **Gladiator Valiant:** The ability `Ferocious Assault` has been included as a weapon ability on the `Twin las-talon`, this ability assumes you're attacking the closest eligible enemy unit so it will have to be deleted if you did not want to simulate that.
 * **Vindicator:** Not included the `Siege Shield` ability.
 * **Repulsor Executioner:** The `Executioner` ability is present in the unit abilities, as there's no condition for Below Half-strength this can be turned on/off to simulate that.
+
+</details>

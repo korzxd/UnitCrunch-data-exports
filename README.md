@@ -13,8 +13,7 @@ Each directory contains the following:
 If you wish to contribute, please follow a similar file structure as stated above before sending a Pull request.
 
 ## Todo list
-- [ ] Index: `Imperial Knights`
 - [ ] Update `T'au Index`
   *  Legends units 
   *  Munitorum Field v1.3
-  *  Formatting to match `Aeldari` and `Space Marines` Indices.
+  *  Formatting to match `Aeldari`, `Imperial Knights` and `Space Marines` Indices.

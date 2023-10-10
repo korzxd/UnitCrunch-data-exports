@@ -2,7 +2,7 @@
 ## General Information
 
 ## Army Rule
-* **`Oath of Moment:`** <br> Add these two Modifiers to the **Global Modifiers**.
+* **`Oath of Moment:`** <br> Add this Modifier to the **Global Modifiers**.
     * `Re-roll all possible failed hit rolls (if attacker)`
     
 * **`Sons of Sanguinius:`** <br> Add these two Modifiers to the **Global Modifiers**.

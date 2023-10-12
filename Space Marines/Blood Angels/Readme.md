@@ -22,7 +22,7 @@
     * `+1 to strength (if attacker charged) (melee only) (if attacker)`
 
 ## HQ
-To add units, clone the HQ profile and add the weapon profiles for the unit which the HQ leads.
+To add units to lead, clone the HQ profile and add the weapon profiles for the unit which the HQ leads.
 
 * #### Astorath:
   * **`Mass of Doom`** <br> Enable the profile ability `DEVASTATING WOUNDS`.
@@ -43,6 +43,21 @@ To add units, clone the HQ profile and add the weapon profiles for the unit whic
 
 * #### Gabriel Seth:
   * **`Whirlwind of Gore`** <br> Enable the profile ability `Increase attacks by #` and adjust the value.
+
+* #### Lemartes:
+  * **`Guardian of the Lost`** <br> Enable the profile ability `Damage is greater than 1 : -1 to damage (if defender)`.
+  * **`Fury Unbound`** <br> Add `LETHAL HITS` to the unit profile.
+
+* #### Sanguiary Priest:
+  * **`Sanguinary Priest`** <br> Enable the profile ability `Feel no pain 5+`.
+  * **`Blood Chalice`** <br> Enable the profile ability `Improve AP by 1 (if attacker)`.
+
+* #### Sanguiary Priest with Jump Pack:
+  * **`Sanguinary Priest`** <br> Enable the profile ability `Feel no pain 5+`.
+  * **`Blood Chalice`** <br> Enable the profile ability `Improve AP by 1 (if attacker)`.
+
+* #### Tycho the Lost:
+  * **`Black Rage`** <br> Enable the profile ability `Re-roll all possible failed hit rolls (if attacker)`.
 
 ## Infantry
 

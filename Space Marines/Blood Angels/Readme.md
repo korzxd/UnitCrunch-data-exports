@@ -21,6 +21,13 @@
     * `Increase attacks by 1 (if attacker charged) (melee only) (if attacker)`
     * `+1 to strength (if attacker charged) (melee only) (if attacker)`
 
+## Stratagems
+* **`Red Rampage (1CP):`** <br> Add these two Modifiers to the **Global Modifiers**.
+    * `Critical hit : always wound (if attacker charged) (melee only)`
+    * `+1 to wound roll (if attacker charged) (melee only)`
+* **`Armour of Contempt (1CP):`** <br> Add this Modifier to the **Global Modifiers**.
+    * `Degrade AP by 1`
+
 ## HQ
 To add units to lead, clone the HQ profile and add the weapon profiles for the unit which the HQ leads.
 
@@ -61,4 +68,25 @@ To add units to lead, clone the HQ profile and add the weapon profiles for the u
 
 ## Infantry
 
+* #### Death Company Intercessors:
+  * **`Black Rage`** <br> Enable the profile ability `Re-roll all possible failed hit rolls (if attacker)`.
+
+* #### Death Company Marines:
+  * **`Black Rage`** <br> Enable the profile ability `Re-roll all possible failed hit rolls (if attacker)`.
+  * **`An Honourable Death in Combat`** <br> Add `SUSTAINED HITS 1`, `SUSTAINED HITS 2` to the unit profile and modify model/weapon count accordingly.
+
+* #### Death Company Marines with Jump Pack:
+  * **`Death Company Marines with Jump Pack`** <br> Use the `Death Company Marines` profile.
+  * **`Black Rage`** <br> Enable the profile ability `Re-roll all possible failed hit rolls (if attacker)`.
+
+* #### Sanguinary Guard:
+  * **`Angelic Visage`** <br> Enable the profile ability `-1 to hit roll (melee only) (if defender)`.
+  * **`Heirs of Azkaellon`** <br> Enable the profile ability `-1 to wound roll (melee only) (if defender)`.
+
 ## Vehicles
+
+* #### Death Company Dreadnought:
+  * **`Black Rage`** <br> Enable the profile ability `Re-roll all possible failed hit rolls (if attacker)`.
+
+* #### Librarian Dreadnought:
+  * **`Shield of Sanguinius (Aura, Psychic)`** <br> Enable the profile ability `Feel no pain 5+ (mortal wounds only)`.

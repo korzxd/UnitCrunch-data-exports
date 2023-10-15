@@ -1,12 +1,8 @@
 # Blood Angels Index v1.0
 ## General Information
-* **Excluded Units:**
-  * Forgeworld
-  * Legends
-  * Epic Heroes
-  * Chapters
+* **Excluded Legends:**
 * **`Leaders`** are all separate unit profiles acting as if they were a sole unit on the battlefield and thus, they do not include their **`Leader`** ability. (See exceptions below)
-* **`Death Company Marines`** and **`Sanguiary Guard`** have unit profiles with Lemartes and Dante attached, respectively, to reflect common leader attachments to those unts.
+* **`Death Company Marines`** and **`Sanguinary Guard`** have unit profiles with Lemartes and Dante attached, respectively, to reflect common leader attachments to those unts.
 * All unit profile weapons have the default maximum `Count per unit`.
 * All units that have the `Damaged: 1-X Wounds Remaining` ability have a `-1 to hit roll` ability in their unit profile that can be enabled.
 * All unit profiles have the weapons shown on their datasheet unless specified. If they have access to more weapons via the armoury these are generally not included.
@@ -32,34 +28,34 @@
 To add units to lead, clone the HQ profile and add the weapon profiles for the unit which the HQ leads.
 
 * #### Astorath:
-  * **`Mass of Doom`** <br> Enable the profile ability `DEVASTATING WOUNDS`.
+  * **`Mass of Doom`** <br> Enable the profile ability `Critical wound : disable save (inc. invuln) (melee only) (if attacker)`.
 
 * #### Brother Corbulo:
   * **`Sanguinary Priest`** <br> Enable the profile ability `Feel no pain 5+`.
-  * **`The Red Grail`** <br> Enable the profile ability `Increase attacks by #` and adjust the value.
+  * **`The Red Grail`** <br> Enable the profile ability `Increase attacks by 1`
 
 * #### Captain Tycho:
   * **`Gifted Commander`** <br> For LETHAL HITS, Enable the profile ability `+1 to hit roll (ranged only) (if attacker) (if attacker remained stationary)`. <br> For SUSTAINED HITS 1, Enable the profile ability `Increase attacks by 1 (ranged only) (if attacker) (within half range)`.
   * **`Embittered`** <br> Enable the weapon profile `Dead Man's Hand (Embittered)` and disable `Death Man's Hand`.
 
 * #### Chief Librarian Mephiston:
-  * **`Psychic Hood`** <br> Enable the profile ability `Feel no pain 5+`.
+  * **`Psychic Hood`** <br> Enable the profile ability `Feel no pain 4+`.
 
 * #### Commander Dante:
   * **`Lord Regent of the Imperium Nihilus:`** <br> Enable the profile ability `+1 to hit roll (if attacker)`.
 
 * #### Gabriel Seth:
-  * **`Whirlwind of Gore`** <br> Enable the profile ability `Increase attacks by #` and adjust the value.
+  * **`Whirlwind of Gore`** <br> Enable the profile ability `Increase attacks by # (melee only) (if attacker)` and adjust accordingly.
 
 * #### Lemartes:
   * **`Guardian of the Lost`** <br> Enable the profile ability `Damage is greater than 1 : -1 to damage (if defender)`.
   * **`Fury Unbound`** <br> Add `LETHAL HITS` to the unit profile.
 
-* #### Sanguiary Priest:
+* #### Sanguinary Priest:
   * **`Sanguinary Priest`** <br> Enable the profile ability `Feel no pain 5+`.
   * **`Blood Chalice`** <br> Enable the profile ability `Improve AP by 1 (if attacker)`.
 
-* #### Sanguiary Priest with Jump Pack:
+* #### Sanguinary Priest with Jump Pack:
   * **`Sanguinary Priest`** <br> Enable the profile ability `Feel no pain 5+`.
   * **`Blood Chalice`** <br> Enable the profile ability `Improve AP by 1 (if attacker)`.
 

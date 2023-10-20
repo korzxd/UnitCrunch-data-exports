@@ -23,7 +23,7 @@
 * Some Units have Abilities in the form of a Weapon Profile these will have `- (Ability)` at the end of their weapon name.\
 
 ## Army Rule
-* **`Power From Pain:`** <br> Each unt profile has the following ability:
+* **`Power From Pain:`** <br> Add the following ability to the Global Modifiers:
     * `Re-roll all possible failed hit rolls (if attacker)`
 
     
@@ -81,7 +81,7 @@
   * **`Grav-talon:`** <br> Enable the profile ability `+1 to wound roll (if attacker charged) (melee only) (if attacker)`.
 
 * #### Succubus:
-  * **`Storm of Blades:`** *Leader Ability* <br> Enable the profile ability `SUSTAINED HITS 1`.
+  * **`Storm of Blades:`** *Leader Ability* <br> Enable the profile ability `Critical hit : 1 extra attack (melee only) (if attacker)`.
 
 * #### Wracks x5 + Haemonculus:
   * **`Master of Pain:`** *Leader Ability* <br> Enable the profile ability `Feel no pain 4+`.

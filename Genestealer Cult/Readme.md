@@ -7,24 +7,21 @@
 * All units that have the `Damaged: 1-X Wounds Remaining` ability have a `-1 to hit roll (if attacker)` ability in their unit profile that can be enabled.
   
 * All unit profiles have the weapons shown on their datasheet unless specified.
-  
-* Some Units have Abilities in the form of a Weapon Profile these will have `- (Ability)` at the end of their weapon name.\
-
-## Army Rule
-* **`Power From Pain:`** <br> Add the following ability to the Global Modifiers:
-    * `Re-roll all possible failed hit rolls (if attacker)`
-
     
 ## Units - Standard
 
 * #### Abominant:
   * **`The Chosen One:`** *Leader Ability* <br> Enable the profile ability `SUSTAINED HITS 1`.
 
+* #### Acolyte Iconward:
+  * **`Nexus of Devotion:`** *Leader Ability* <br> Enable the profile ability `Feel no pain 5+`.
+
 * #### Biophagus:
   * **`Twisted Science:`** *Leader Ability* <br> Enable the profile ability `LETHAL HITS`.
+  * **`Alchemicus Familiar:`** <br> Enable the profile ability `Wound roll of 2+ (unmodified) : critical wound (if attacker) (INFANTRY only)`.
 
 * #### Magus:
-  * **`Bodyguard:`** *Leader Ability* <br> Enable the profile ability `Feel no pain 4+`.
+  * **`Spiritual Leader:`** *Leader Ability* <br> Enable the profile ability `Feel no pain 5+`.
 
 * #### Patriarch:
   * **`Might From Beyond:`** *Leader Ability* <br> Enable the profile ability `DEVASTATING WOUNDS`.
@@ -41,8 +38,7 @@
   * **`Vile Insurrectionists:`** <br> Enable the profile ability `Re-roll all wound roll results of 1 (if attacker)`.
 
 * #### Aberrants:
-  * **`Hulking Bodyguards:`** *Leader Ability* <br> Enable the profile ability `Re-roll all hit roll results of 1 (if attacker)`.
+  * **`Hulking Bodyguards:`** <br> Enable the profile ability `Strength is greater than 6 : -1 to wound roll (if defender)`.
 
 * #### Achilles Ridgerunner:
-  * **`Flare Launcher:`** <br> Enable the profile ability `-1 to hit roll (if defender)`.
-  * **`Spotter:`** <br> Enable the profile ability `Improve BS by 1 (if attacker)`.
+  * **`Spotter:`** <br> Enable the profile ability `Set BS to 3 (ranged only) (if attacker)`.

@@ -1,82 +1,198 @@
-# Space Marine Index v1.1
+# Space Marine Index v1.2
 ## General Information
 * **Excluded Units:**
-  * Forgeworld
-  * Legends
   * Epic Heroes
   * Chapters
-* **`Leaders`** are all separate unit profiles acting as if they were a sole unit on the battlefield and thus, they do not include there **`Leader`** ability.
-* All unit profile weapons have the default maximum `Count per unit`.
-* All units that have the `Damaged: 1-X Wounds Remaining` ability have a `-1 to hit roll` ability in their unit profile that can be enabled.
-* All unit profiles have the weapons shown on their datasheet unless specified. If they have access to more weapons via the armoury these are generally not included.
-* Some Units have Abilities in the form of a Weapon Profile These are highlighted below.
+  * Legends (Some are included but need to be reviewed)
 
-This index is split into 3 categories:
-1. HQ
-1. Infantry/Mounted
-1. Vehicles
+* **`Leaders`** are all separate unit profiles acting as if they were a sole unit on the battlefield, they include their **`Leader`** ability but this should be left inactive unless simulating that effect.
+
+* All unit profiles that have a squad size have been created at their minimum size unless stated otherwise.
+  
+* All unit profile weapons have the default maximum `Count per unit` for that squad size.
+  
+* All units that have the `Damaged: 1-X Wounds Remaining` ability have a `-1 to hit roll (if attacker)` ability in their unit profile that can be enabled.
+  
+* All unit profiles have the weapons shown on their datasheet unless specified.
+  
+* Some Units have Abilities in the form of a Weapon Profile these will have `- (Ability)` at the end of their weapon name.
 
 ## Army Rule
-* **`Oath of Moment:`** <br> Add these two Modifiers to the **Global Modifiers**.
-    * `Re-roll all possible failed hit rolls (if attacker)`
-    * `Re-roll all possible failed wound rolls (if attacker)`
+* **`Oath of Moment:`** <br> Add `Re-roll all possible failed hit rolls (if attacker)` to the **Global Modifiers**.
 
-## HQ
+## Detachment: Anvil Siege Force
+### Rule
+* **`Shield of the Imperium:`**
+  * Add `HEAVY` to the **Global Modifiers**.
+  * If the weapon already has `HEAVY` clone it and add the weapon ability `+1 to wound roll (if attacker remained stationary)`. You can now toggle between the two.
+
+## Detachment: Ironstorm Spearhead
+### Rule
+* **`Armoured Wrath:`** Implement one of the following for the unit:
+  * Add `Re-roll one possible failed hit roll` to the weapon you want to simulate.
+  * Add `Re-roll one possible failed wound roll` to the weapon you want to simulate.
+  * Add `Re-roll one damage result of 1–#` to the weapon you want to simulate.
+
+## Detachment: Firestorm Assault Force
+### Rule
+* **`Close-range Eradication:`**  <br> Add `+1 to strength (ranged only)` to the **Global Modifiers**.
+
+## Detachment: Vanguard Spearhead
+### Rule
+* **`Shadow Masters:`**
+  * Add `-1 to hit roll (ranged only)` to the **Global Modifiers**.
+  * Enable `Defender in cover` under **Global Modifiers**.
+
+## Detachment: 1st Company Task Force
+### Rule
+* **`Extremis-level Threat:`** <br> Add `Re-roll all possible failed wound rolls (if attacker)` to the **Global Modifiers**.
+
+## Units - Standard
+
+* #### Aggressor squad:
+  *  **`Close-quarters Firepower:`** *Ability* <br> Enable the profile ability `Improve AP by 1`.
+
+* #### Ancient:
+  *  **`Unbreakable Duty:`** *Leader Ability* <br> Enable the profile ability `Feel no pain 4+`.
 
 * #### Ancient (Terminator):
   * **`Terminator Storm Shield:`** <br> Change Wounds to 6.
 
+  *  **`Keep the Banner High:`** *Leader Ability* <br> Enable the profile abilities `+1 to hit roll` & `+1 to wound roll`.
+
+* #### Apothecary biologis:
+  *  **`Surgical Precision:`** *Leader Ability* <br> Enable the profile ability `Critical hit : always wound`.
+
+* #### Assault Intercessor Squad x5: 
+    * **`Shock Assault:`** *Ability* <br> Enable the profile ability `Re-roll all possible failed wound rolls (melee only)`.
+
+* #### Assault Intercessors (Jump Packs) x5: 
+   * **`Hammer of Wrath:`** <br> Melee weapon profile, when using disable all `Re-roll hit roll` modifiers and adjust the weapon count per unit to the desired squad size.
+
+* #### Ballistus Dreadnought:
+    * **`Ballistus Strike:`** *Wargear* <br> Enable the profile ability `Re-roll all possible failed hit rolls (if attacker)`.
+
 * #### Bladeguard Ancient:
-  *  **`Deeds of Heroism:`** <br> Enable the profile ability `Increase attacks by 1`.
+  *  **`Deeds of Heroism:`** *Leader Ability* <br> Enable the profile ability `Increase attacks by 1`.
+
+* #### Bladeguard veteran squad:
+    * **`Bladeguard: Swords of the Imperium:`** *Ability* <br> Enable the profile ability `Re-roll all hit roll results of 1 (melee only) (if attacker)`.
+    *  **`Bladeguard: Shields of the Imperium:`** *Ability* <br> Enable the profile ability `Re-roll all invuln save roll results of 1 (melee only) (if defender)`.
+
+* #### Brutalis dreadnought:
+  * **`Brutalis Charge:`** *Ability* <br> Melee weapon profile, when using disable all `Re-roll hit roll` modifiers.
 
 * #### Captain:
-  * **`Finest Hour:`** <br> Enable the profile abilities `Critical wound : disable save` & `Increase attacks by 3`.
-  * **`Relic Shield:`** <br> Change Wounds to 6.
+  * **`Finest Hour:`** *Ability* <br> Enable the profile abilities `Critical wound : disable save` & `Increase attacks by 3`.
+  * **`Relic Shield:`** *Wargear* <br> Change Wounds to 6.
+  
+* #### Captain (Jump pack): TODO
+  * **`Relic Shield:`** *Wargear* <br> Change Wounds to 6.
 
-* #### Captain (bike):
-  * **`Relic Shield:`** <br> Change Wounds to 7.
+* #### Centurion Devastator squad:
+    * **`Decimator Protocols:`** *Ability* <br> Enable the profile ability `Re-roll all possible failed hit rolls (ranged only)`.
 
-* #### Captain (Jump pack):
-  * **`Relic Shield:`** <br> Change Wounds to 6.
-
-* #### Captain in Terminator Armour:
-  * **`Relic Shield:`** <br> Change Wounds to 7.
-
-* #### Chaplain on Bike:
-  *  **`Catechism of Fire:`** <br> Enable the profile ability `DEVASTATING WOUNDS`.
+* #### Chaplain
+  * **`Litany of Hate:`** *Leader Ability* <br> Enable the profile ability `+1 to wound roll`.
 
 * #### Chaplain (Jump Pack):
-  * **`Exhortion of Rage:`** <br> Melee weapon profile, when using disable all `re-roll` modifiers.
-  
+  * **`Litany of Hate:`** *Leader Ability* <br> Enable the profile ability `+1 to wound roll`.
+
+  * **`Exhortion of Rage:`** <br> Melee weapon profile, when using disable all `re-roll hit roll` modifiers.
+
+* #### Chaplain (On Bike):
+  * **`Litany of Hate:`** *Leader Ability* <br> Enable the profile ability `+1 to wound roll`.
+
+  *  **`Catechism of Fire:`** *Ability* <br> Enable the profile ability `Critical wound : disable save`.
+
+* #### Chaplain (Terminator Armour):
+  * **`Litany of Hate:`** *Leader Ability* <br> Enable the profile ability `+1 to wound roll`.
+
+  *  **`Recitation of Faith:`** *Leader Ability* <br> Enable the profile ability `Feel no pain 4+`.
+
+* #### Company Heroes
+  * **`Command Squad:`** *Ability* <br> Enable the profile ability `-1 to wound roll`.
+
+* #### Desolation Squad:
+  * **No Visibility:** *Ability* <br> Enable the profile ability `-1 to hit roll` and the **Global Modifier** `Defender in Cover` when firing with `INDIRECT FIRE` weapons.
+  * **`Targeter Optics:`** <br> Disable the profile ability `-1 to hit roll` and enable `IGNORES COVER`.
+
+* #### Devastator Squad:
+  * **`Signum:`** *Ability* <br> Enable the profile ability `IGNORES COVER`.
+
+* #### Eliminator Squad:
+  * **`Mark the Target:`** *Ability* <br> Enable the profile ability `Critical wound : disable save`.
+
+* #### Eradicator Squad:
+    * **`Total Obliteration:`** *Ability* <br> Change the `Re-roll all damage results of 1-#` to the range you would like to simulate.
+
+* #### Gladiator Lancer:
+  * **`Aquilon Optics:`** *Ability* <br> Use the weapon profile `Lancer laser destroyer (Aquilon Optics)`, adjust the damage range to your choice. <br> Copy these `Re-roll` abilities to another weapon that you wish to simulate `Aquilon Optics` on.
+
+* #### Gladiator Reaper:
+  *  **`Rotating Death:`** *Ability* <br> Ability is included in the `Twin heavy onslaught gatling cannon` weapon profile.
+
+* #### Gladiator Valiant:
+  *  **`Ferocious Assault:`** *Ability* <br> Ability is included in the `Twin las-talon - (Ferocious Assault)` weapon profile. <br> Use the `Twin las-talon - Standard` to not simualte the above scenario.
+        
+* #### Incursor squad:
+  * **`Haywire Mine:`** *Wargear* <br> Weapon profile, when using disable all `Re-roll hit roll` modifiers.
+
+* #### Infiltrator squad:
+  *  **`Helix Guantlet:`** *Wargear* <br> Enable the profile ability `Feel no pain 6+`.
+
 * #### Judiciar:
-  *  **`Silent Fury:`** <br> Enable the profile ability `Increase attacks by #` and adjust the value.
+  *  **`Silent Fury:`** *Ability* <br> Enable the profile ability `Increase attacks by #` and adjust the value.
+
+* #### Librarian (Phobos Armour)
+  * **`Shrouding (Psychic):`** *Leader Ability* <br> Enable the profile ability `-1 to hit roll`.
+
+* #### Librarian (Terminator Armour)
+  * **`Veil of Time (Psychic):`** *Leader Ability* <br> Enable the profile ability `Critical hit : 1 extra hit`.
 
 * #### Lieutenant:
-  *  **`Storm Shield:`** <br> Enable the profile ability `4++ Invuln save`.
+  *  **`Storm Shield:`** <br> Change Invuln Characteristic to `4`.
+  *  **Tactical Precision** *Leader Ability* <br> Enable the profile ability `Critical hit : always wound `.
 
-* #### Primaris Ancient:
-  *  **`Unbreakable Duty:`** <br> Enable the profile ability `Feel no pain 4+`.
+* #### Lieutenant (Phobos Armour):
+  *  **Tactical Precision** *Leader Ability* <br> Enable the profile ability `Critical hit : always wound `.
 
-* #### Primaris Captain:
-  * **`Finest Hour:`** <br> Enable the profile abilities `Critical wound : disable save` & `Increase attacks by 3`.
-  * **`Relic Shield:`** <br> Change Wounds to 6.
+* #### Lieutenant (Reiver Armour):
+  *  **Tactical Precision** *Leader Ability* <br> Enable the profile ability `Critical hit : always wound `.
 
-* #### Primaris Company Champion:
-  *  **`Martial Superiority:`** <br> Ability is included in the `Master-crafted power weapon` weapon profile.
+* #### Outriders Squad:
+  * Excluded `Invader ATV` and the weapons `Multi-melta` & `Onslaught cannon`.
 
-* #### Primaris Techmarine:
-  *  **`Vengeance of the Omnissiah:`** <br> Use the weapon profile `Omnissian power axe (Vengeance of the Omnissiah)`.
+* #### Repulsor Executioner:
+  * **`Executioner:`** *Ability* <br> Enable the profile ability `+1 to hit roll`.
+
+* #### Sternguard veteran squad x5:
+  * **`Sternguard Focus:`** *Ability* <br> Enable the profile ability `Re-roll all wound roll results of 1`.
+
+* #### Tactical Squad:
+  * This squad has a huge amount of wargear and will need to be customised to achieve the desired squad formation.
 
 * #### Techmarine:
-  *  **`Vengeance of the Omnissiah:`** <br> Use the weapon profile `Omnissian power axe (Vengeance of the Omnissiah)`.
+  *  **`Vengeance of the Omnissiah:`** <br> Use the weapon profile `Omnissian power axe - (Vengeance of the Omnissiah)`.
 
-## Infantry/Mounted
+* #### Terminator assault squad:
+  * **`Storm Shield:`** *Wargear* <br> Change Wounds to 4.
 
-* #### Aggressor squad:
-  *  **`Close-quarters Firepower:`** <br> Enable the profile ability `Improve AP by 1`.
+* #### Terminator squad:
+  * **`Fury of the First:`** *Ability* <br> Enable the profile ability `+1 to hit roll`.
 
-* #### Assault intercessor squad: 
-    * **`Shock Assault:`** (*"Within range of an Objective Marker"* part of the ability) <br> Enable the profile ability `Re-roll all possible failed wound rolls (melee only)`.
+* #### Vindicator:
+  *  **`Siege Shield:`** *Ability* <br> Disable all `-# to hit roll` Modifiers.
+
+* #### Whirlwind:
+  * **`Whirlwind vengeance launcher - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Whirlwind vengeance launcher` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Global Modifiers**.)
+
+## Units - Imperial Armor
+
+* #### Thunderhawk Gunship:
+  * **`Thunderhawk Cluster Bombs:`** *Wargear* <br> Ranged weapon profile, when using disable all `Re-roll hit roll` modifiers.
+
+## Units - Legends
 
 * #### Assault squad: <br> *This profile will need to be heavily adjusted to represent your unit!*
     * **`Astartes Shield:`** <br> Enable the profile ability `4++ inv`. (Only 1 unit can take this Wargear, after 1 model has been slain the accuracy of the simulation drops.)
@@ -89,73 +205,15 @@ This index is split into 3 categories:
 * #### Bike Squad:
   * Excluded `Attack Bike` and the weapons `Multi-melta` & `Heavy bolter`.
 
-* #### Bladeguard veteran squad:
-    * **`Bladeguard: Swords of the Imperium:`** <br> Enable the profile ability `Re-roll all hit roll results of 1 (melee only) (if attacker)`.
-    *  **`Bladeguard: Shields of the Imperium:`** <br> Enable the profile ability `Re-roll all invuln save roll results of 1 (melee only) (if defender)`.
+* #### Captain (bike):
+  * **`Relic Shield:`** <br> Change Wounds to 7.
 
-* #### Centurion Devastator squad:
-    * **`Decimator Protocols:`** (*"Target within range of an Objective Marker"* part of the ability) <br> Enable the profile ability `Re-roll all possible failed hit rolls (ranged only)`.
-
-* #### Command squad: <br> *This profile will need to be heavily adjusted to represent your unit!*
-    * **`Astartes Shield:`** <br> Enable the profile ability `4++ inv`. (Only 3 units can take this Wargear, after 3 models have been slain the accuracy of the simulation drops.)
-
-* #### Desolation Squad:
-  * **No Visibility:** <br> Enable the profile ability `-1 to hit roll` and the **Global Modifier** `Defender in Cover` when firing with `[INDIRECT FIRE]` weapons.
-  * **`Targeter Optics:`** <br> Disable the profile ability `-1 to hit roll` and enable `IGNORES COVER`.
-
-* #### Devastator Squad:
-  * **`Signum:`** <br> Enable the profile ability `[IGNORES COVER]`.
-  * **`Armorium Cherub:`** <br> Add `Re-roll one possible failed hit roll` to your chosen weapon.
-
-* #### Eradicator Squad:
-    * **`Total Obliteration:`** <br> Change the `Re-roll all damage results of 1-#` to the range you would like to simulate.
-    
-* #### Incursor squad:
-  * **`Haywire Mine:`** <br> Weapon profile, when using disable all `Re-roll` modifiers.
-
-* #### Infiltrator squad:
-  *  **`Helix Guantlet:`** <br> Enable the profile ability `Feel no pain 6+`.
-
-* #### Outriders Squad:
-  * Excluded `Invader ATV` and the weapons `Multi-melta` & `Onslaught cannon`.
-
-* #### Relic Terminator squad:
-  * **`Fury of the First (Part 1):`** <br> Disable all `-# to hit roll`, `Degrade BS by #` & `Degrade WS by #` Modifiers to simulate this.
-  * **`Fury of the First (Part 2):`** <br> Enable the profile ability `+1 to hit roll (if attacker)` if the `Oath of Moment` **Global Modifiers** `Re-roll all possible failed hit rolls (if attacker)` & `Re-roll all possible failed wound rolls (if attacker)` are enabled.
-
-* #### Terminator assault squad:
-  * **`Storm Shield:`** <br> Change Wounds to 4.
-
-* #### Terminator squad:
-  * **`Fury of the First (Part 1):`** <br> Disable all `-# to hit roll`, `Degrade BS by #` & `Degrade WS by #` Modifiers to simulate this.
-  * **`Fury of the First (Part 2):`** <br> Enable the profile ability `+1 to hit roll (if attacker)` if the `Oath of Moment` **Global Modifiers** `Re-roll all possible failed hit rolls (if attacker)` & `Re-roll all possible failed wound rolls (if attacker)` are enabled.
-  
-## Vehicles
-
-
-* #### Ballistus Dreadnought:
-    * **`Ballistus Strike:`** <br> Enable the profile ability `Re-roll all possible failed hit rolls (if attacker)`.
-
-* #### Brutalis dreadnought:
-  * **`Brutalis Charge:`** <br> Weapon profile, when using disable all `Re-roll` modifiers.
-  
-* #### Gladiator Lancer:
-  * **`Aquilon Optics:`** <br> Use the weapon profile `Lancer laser destroyer (Aquilon Optics)`, adjust the damage range to your choice. <br> Copy these `Re-roll` abilities to another weapon that you wish to simulate `Aquilon Optics` on.
-
-* #### Gladiator Reaper:
-  *  **`Rotating Death:`** <br> Ability is included in the `Twin heavy onslaught gatling cannon` weapon profile.
-
-* #### Gladiator Valiant:
-  *  **`Ferocious Assault:`** <br> Ability is included in the `Twin las-talon - (Closest Eligible Target)` weapon profile. <br> Use the `Twin las-talon - Standard` to not simualte the above scenario.
-  
 * #### Hunter:
   *  **`Hunter Missile Targeting:`** <br> Ability is included in the `Skyspear missile launcher` weapon profile.
 
 * #### Land Speeder Tornado:
   * **`Strafing Enfilade:`** <br> Weapon profile, when using disable all `Re-roll` modifiers.
-
-* #### Repulsor Executioner:
-    * **`Executioner:`** <br> Enable the profile ability `+1 to hit roll`.
-
-* #### Vindicator:
-  *  **`Siege Shield:`** <br> Disable all `-# to hit roll` Modifiers.
+  
+* #### Relic Terminator squad:
+  * **`Fury of the First (Part 1):`** <br> Disable all `-# to hit roll`, `Degrade BS by #` & `Degrade WS by #` Modifiers to simulate this.
+  * **`Fury of the First (Part 2):`** <br> Enable the profile ability `+1 to hit roll (if attacker)` if the `Oath of Moment` **Global Modifiers** `Re-roll all possible failed hit rolls (if attacker)` & `Re-roll all possible failed wound rolls (if attacker)` are enabled.

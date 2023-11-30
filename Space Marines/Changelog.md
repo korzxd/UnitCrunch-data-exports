@@ -1,5 +1,99 @@
 # Space Marine Index
-## Update v1.1
+## Update v1.2
+###### 30/11/2023
+### General
+
+* The 3 categorised Data Exports have now been condensed into one.
+
+* `Imperial Armour` units have been added.
+
+* Included Detachment Rules in the `Readme.md` file, Stratagems & Enhancements will be added at a later date. (This does not include the Seperate Chapters which were released at launch such as Dark Angels, Blood Angels, Space Wolves etc...) 
+
+* A Legends Data Export has been created. This is currently acting as storage for the units that have moved from the old Data export and will be reviewed at a later date.
+
+* A Horus Heresy Data Export has been created. Like the legends units, this is acting as storage and will be reviewed later.
+
+* Updated Point values of all units to match the Munitorum Field Manual v1.4.
+
+* New Unit Profiles
+  * Assault Intercessors (Jump Packs) x5
+  * Company Heroes
+  * Astraeus
+  * Thunderhawk Gunship
+
+* Removed Unit Profiles
+  * Primaris Captain
+  * Primaris Chaplain
+  * Primaris Company Champion
+  * Primaris Librarian
+  * Primaris Lieutenant
+  * Primaris Techmarine
+
+* Moved to Legends Data Export
+  * Assault squad
+  * Assault squad (jump packs)
+  * Astartes servitors
+  * Attack bike squad
+  * Bike squad
+  * Captain (bike)
+  * Command squad
+  * Hunter
+  * Ironclad dreadnought
+  * Land speeder
+  * Land speeder storm
+  * Land speeder Tornado
+  * Land speeder Typhoon
+  * Librarian (jump packs)
+  * Relic terminator squad
+  * scout bike squad
+  * scout sniper squad
+  * stalker
+  * vanguard veteran squad
+
+* Moved to Horus Heresy Data Export
+  * Contemptor Dreadnought
+
+* Modified Unit Profiles
+  * Ancient
+  * Ancient (Terminator)
+  * Apothecary biologis
+  * Brutalis Dreadnought
+  * Captain
+  * Captain (Jump pack)
+  * Captain (Terminator Armour)
+  * Chaplain
+  * Chaplain (Jump pack)
+  * Chaplain (On Bike)
+  * Chaplain (Terminator Armour)
+  * Devastator Squad x5 (Boltgun, Astartes chainsword, Power fist, Power weapon, Thunder hammer excluded)
+  * Eliminator Squad
+  * Gladiator Valiant
+  * Hammerfall Bunker
+  * Hellblaster Squad x5
+  * Impulsor
+  * Incursor Squad x5 
+  * Invader ATV
+  * Librarian
+  * Librarian (Phobos Armour)
+  * Librarian (Terminator Armour)
+  * Lieutenant
+  * Lieutenant (Phobos Armour)
+  * Lieutenant (Reiver Armour)
+  * Lieutenant with combi-weapon
+  * Razorback
+  * Scout Squad x5
+  * Sternguard veteran squad x5 
+  * Storm speeder Hailstrike
+  * Stormhawk Interceptor
+  * Stormraven Gunship
+  * Stormtalon Gunship
+  * Vanguard veteran squad (Jump packs) x5
+  * Vindicator 
+  * Techmarine
+
+<details>
+<summary><h2>Update v1.1</h2></summary>
+
 ###### 19/09/2023
 ### General
 * Updated Point values of all units to match the Munitorum Field Manual v1.3.
@@ -79,6 +173,8 @@
 * **Gladiator Valiant:** `Twin las-talon` now has two weapon profiles to choose from to simulate `Ferocious Assault`.
 
 * **Impulsor:** Toughness changed from 11 to 9 and Wounds changed from 9 to 11.
+
+</details>
 
 <details>
 <summary><h2>Update v1.0</h2></summary>

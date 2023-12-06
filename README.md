@@ -14,8 +14,8 @@ If you wish to contribute please read the `contributing.md`, here we outline the
 There are also quick start templates in the `Templates` directory.
 
 ## Todo list
+- [ ] Next Index `Chaos Daemons`
 - [ ] Update `T'au data export`
   *  Legends units 
   *  Munitorum Field v1.3+
   *  Formatting to match the `contributing.md` guidelines.
-- [ ] Next Index `Agents of the Imperium`

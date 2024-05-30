@@ -1,6 +1,71 @@
 # T'au Index
 
-## Update v1.1
+## Update v1.2
+###### 30/05/2024
+### General
+
+* Created a `Readme.md` similar to the other factions, this also includes how to setup the Army & Detachment rules.
+
+* A Legends Data Export has been created. This is currently acting as storage for the units that have moved from the old Data export and will be reviewed at a later date.
+
+* Updated Point values of all units to match the Munitorum Field Manual v1.10.
+
+* Removed the Leader Squad profiles as these will soon become redundant.
+
+* Removed the Kauyon & Army Rule Modifiers from all profiles.
+
+* New Unit Profiles
+  * Kroot Flesh Shaper
+  * Kroot Lone-Spear
+  * Kroot Trail Shaper
+  * Kroot War Shaper
+  * Krootox Rampagers
+  * Crisis Fireknife Battlesuits 
+  * Crisis Starscythe Battlesuits
+  * Crisis Sunforge Battlesuits
+  * Tidewall Shieldline (Defence Platform)
+  
+* Removed Unit Profiles
+  * Kroot Shaper
+  * *Leader & Squad Profiles*
+
+* Moved to Legends Data Export
+  * Aun'shi
+  * Aun'va
+  * Barracuda
+  * Commander in Crisis Battlesuit
+  * Longstrike
+  * Crisis Battlesuits
+  * R'varna Battlesuit
+  * Tactical Drones
+  * Tetras
+  * Y'vahra Battlesuit
+  * Remora Stealth drones
+
+* Modified Unit Profiles
+  * Broadside Battlesuits - matches codex
+  * Devilfish - matches codex
+  * Kroot Carnivores - matches codex
+  * Kroot Hounds - matches codex
+  * Krootox Riders - matches codex
+  * Hammerhead Gunship - matches codex
+  * Sky Ray Gunship - matches codex
+  * Commander Farsight - matches codex
+  * Tidewall Shieldline - Removed Strike team simulating firing deck
+  * Tidewall Droneport - Removed Strike team simulating firing deck
+  * Tidewall Gunrig - Removed Strike team simulating firing deck
+  * Ethereal - added leader ability
+  * Darkstrider - added leader ability
+  * Cadre Fireblade - added leader ability
+  * Commander in Enforcer Battlesuit - matches codex, added leader ability
+  * Commander in Coldstar Battlesuit - matches codex
+  * Hammerhead Gunship - removed `LETHAL HITS`
+  * Riptide Battlesuit - removed `-1 to hit roll`
+
+
+<details>
+<summary><h2>Update v1.1</h2></summary>
+
 ###### 28/07/2023
 ### General
 
@@ -70,6 +135,7 @@
 * **Tidewall Gunrig (Strike Team x10), Tidewall Droneport (Strike Team x10):**
   * **`-1 to hit roll`** ability to simulate shooting into engagement.
   * By default it contains 10 Strike Team Fire Warriors with Pulse rifles, change this to the unit you want to simulate.
+</details>
 
 <details>
 <summary><h2>Update v1.0</h2></summary>

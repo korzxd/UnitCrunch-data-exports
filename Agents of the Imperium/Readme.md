@@ -1,4 +1,4 @@
-# Agents of the Imperium Index v1.0
+# Agents of the Imperium Index v1.1
 ## General Information
 * This Index contains all units from the current `Index: Agents of the Imperium`.
   
@@ -13,8 +13,6 @@
 ## Units
 
 * #### Culexus Assassin
-  * **`Abomination:`** *Ability* <br> Enable the profile ability `Feel no pain 2+`.
-
   * **`Psychic Assassin:`** *Ability* <br> Modifier already applied to the `Animus speculum`.
 
 * #### Eversor Assassin
@@ -31,9 +29,6 @@
   * **`Blessed Wardings:`** *Wargear, Leader Ability* <br> Enable the profile ability `Feel no pain 5+ (mortal wounds only)`.
 
   * **`Psychic Gifts:`** *Wargear* <br> Add `PSYKER` to the profile Keywords.
-
-* #### Inquisitor Coteaz
-  * **`Malefic Wardings (Psychic):`** *Leader Ability* <br> Enable the profile ability `Feel no pain 5+`.
 
 * #### Inquisitor Greyfax
   * **`Psyoculum:`** *Leader Ability* <br> Enable the profile ability `Wound roll of 4+ (unmodified) : critical wound (ranged only) (if attacker) (PSYKER only)`.

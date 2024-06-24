@@ -1,4 +1,4 @@
-# Aeldari Index v1.0
+# Aeldari Index v1.1
 ## General Information
 * This Index contains all units from the current `Index: Aeldari` and the `Imperial Armour: Aeldari`.
   
@@ -190,13 +190,9 @@
 
 * #### Warlock Skyrunner Conclave x2:
   * **`Protect (Psychic):`** *Ability* <br> Enable the profile ability `-1 to wound roll`.
-  
-  * **Warlock Conclave:** *Ability* <br> Enable the profile ability `Feel no pain 4+` when **all** attacking weapons are `Psychic` weapons. (`Psychic` attacks are currently not implemented within Unitcrunch but the developer has stated this is on the Todo list.)
 
 * #### Warlock Conclave x2:
   * **`Protect (Psychic):`** *Ability* <br> Enable the profile ability `-1 to wound roll`.
-  
-  * **Warlock Conclave:** *Ability* <br> Enable the profile ability `Feel no pain 4+` when **all** attacking weapons are `Psychic` weapons. (`Psychic` attacks are currently not implemented within Unitcrunch but the developer has stated this is on the Todo list.)
 
 ## Units - Imperial Armour
 

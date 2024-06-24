@@ -1,4 +1,4 @@
-# Blood Angels Index v1.0
+# Blood Angels Index v1.1
 ## General Information
 * **Excluded Legends:**
 * **`Leaders`** are all separate unit profiles acting as if they were a sole unit on the battlefield and thus, they do not include their **`Leader`** ability. (See exceptions below)
@@ -39,7 +39,7 @@ To add units to lead, clone the HQ profile and add the weapon profiles for the u
   * **`Embittered`** <br> Enable the weapon profile `Dead Man's Hand (Embittered)` and disable `Death Man's Hand`.
 
 * #### Chief Librarian Mephiston:
-  * **`Psychic Hood`** <br> Enable the profile ability `Feel no pain 4+`.
+  * **`Psychic Hood`** <br> Enable the profile ability `Feel no pain 4+ (if attack is psychic)`.
 
 * #### Commander Dante:
   * **`Lord Regent of the Imperium Nihilus:`** <br> Enable the profile ability `+1 to hit roll (if attacker)`.
@@ -85,4 +85,4 @@ To add units to lead, clone the HQ profile and add the weapon profiles for the u
   * **`Black Rage`** <br> Enable the profile ability `Re-roll all possible failed hit rolls (if attacker)`.
 
 * #### Librarian Dreadnought:
-  * **`Shield of Sanguinius (Aura, Psychic)`** <br> Enable the profile ability `Feel no pain 5+ (mortal wounds only)`.
+  * **`Shield of Sanguinius (Aura, Psychic)`** <br> Enable the profile abilities `Feel no pain 5+ (mortal wounds only)` & `Feel no pain 5+ (if attack is psychic)`.

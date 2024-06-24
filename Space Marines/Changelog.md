@@ -1,5 +1,19 @@
 # Space Marine Index
-## Update v1.2
+## Update v1.3
+
+###### 24/06/2024
+### General
+
+* Modified the `Readme.md` to reflect the `Psychic` Keyword.
+
+* `Psychic` weapons/abilities added to the following profiles:
+  * Librarian
+  * Librarian (Phobos Armour)
+  * Librarian (Terminator Armour)
+
+<details>
+<summary><h2>Update v1.2</h2></summary>
+
 ###### 30/11/2023
 ### General
 
@@ -90,6 +104,8 @@
   * Vanguard veteran squad (Jump packs) x5
   * Vindicator 
   * Techmarine
+
+</details>
 
 <details>
 <summary><h2>Update v1.1</h2></summary>

@@ -1,4 +1,4 @@
-# Chaos Daemons Index v1.0
+# Chaos Daemons Index v1.1
 ## General Information
 * This Index contains all units from the current `Index: Chaos Daemons`.
   

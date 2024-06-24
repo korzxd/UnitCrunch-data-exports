@@ -1,4 +1,4 @@
-# Genestealer Cult Index v1.0
+# Genestealer Cult Index v1.1
 ## General Information
 * This Index contains all units from the current `Index: Genestealer Cult`
   
@@ -19,9 +19,6 @@
 * #### Biophagus:
   * **`Twisted Science:`** *Leader Ability* <br> Enable the profile ability `LETHAL HITS`.
   * **`Alchemicus Familiar:`** <br> Enable the profile ability `Wound roll of 2+ (unmodified) : critical wound (if attacker) (INFANTRY only)`.
-
-* #### Magus:
-  * **`Spiritual Leader:`** *Leader Ability* <br> Enable the profile ability `Feel no pain 5+`.
 
 * #### Patriarch:
   * **`Might From Beyond:`** *Leader Ability* <br> Enable the profile ability `DEVASTATING WOUNDS`.

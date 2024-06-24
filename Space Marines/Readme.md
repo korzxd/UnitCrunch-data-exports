@@ -1,4 +1,4 @@
-# Space Marine Index v1.2
+# Space Marine Index v1.3
 ## General Information
 * **Excluded Units:**
   * Epic Heroes
@@ -144,10 +144,19 @@
 * #### Judiciar:
   *  **`Silent Fury:`** *Ability* <br> Enable the profile ability `Increase attacks by #` and adjust the value.
 
+* #### Librarian
+  * **`Psychic Hood (Psychic):`** *Leader Ability* <br> Enable the profile ability `Feel no pain 4+ (if attack is psychic)`.
+
+  * **`Mental Fortress (Psychic):`** *Leader Ability* <br> Enable the profile ability `4++ invuln save`.
+
 * #### Librarian (Phobos Armour)
+  * **`Psychic Hood (Psychic):`** *Leader Ability* <br> Enable the profile ability `Feel no pain 4+ (if attack is psychic)`.
+
   * **`Shrouding (Psychic):`** *Leader Ability* <br> Enable the profile ability `-1 to hit roll`.
 
 * #### Librarian (Terminator Armour)
+  * **`Psychic Hood (Psychic):`** *Leader Ability* <br> Enable the profile ability `Feel no pain 4+ (if attack is psychic)`.
+  
   * **`Veil of Time (Psychic):`** *Leader Ability* <br> Enable the profile ability `Critical hit : 1 extra hit`.
 
 * #### Lieutenant:

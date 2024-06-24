@@ -16,7 +16,9 @@ Folder structure and naming conventions for a faction.
     │   ├── *faction-name*-Legends-v*#*.txt     # Legends file & version. (Optional)
     │   ├── readme.md                           # Contains information about the Data Export.
     │   ├── changelog.md                        # A recorded history of changes. (Does not have to be thorough)
-    │   └── old                                 # Folder containing the previous versions. (Optional)
+    │   └── Patches                             # Folder containing the patches for previous versions.
+    │       ├── readme.md                       # History and Details of Patches.
+    │       └── *faction-name*-Patch-*#*.txt    # Faction name & Patch number.  
     └── ...
 
 Space Marine Chapters will follow the same structure as above but they will be placed in the Space Marines directory rather than the Root.

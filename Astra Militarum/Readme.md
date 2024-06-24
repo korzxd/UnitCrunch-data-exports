@@ -1,4 +1,4 @@
-# Astra Militarum Index v1.0
+# Astra Militarum Index v1.1
 ## General Information
 * This Index contains all units from the current `Index: Astra Militarum` and the `Imperial Armour: Astra Militarum`.
   
@@ -131,7 +131,7 @@
   * **`Medi-pack:`** *Wargear* <br> Enable the profile ability `Feel no pain 6+`.
 
 * #### Primaris Psyker:
-  * **`Malign Wardings:`** *Leader Ability* <br> Enable the profile ability `Feel no pain 4+`.
+  * **`Malign Wardings:`** *Leader Ability* <br> Enable the profile ability `Feel no pain 4+ (if attack is psychic)`.
 
   * **`Psychic Barrier:`** *Ability* <br> Enable the profile ability `4++ invuln save`.
 

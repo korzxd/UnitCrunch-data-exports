@@ -1,4 +1,5 @@
 # Astra Militarum Patch Collection
+Please read the [How to apply a Patch](/PATCHES.md) guide for installing patches.
 
 Patch | Compatible Data Exports
 --- | ---

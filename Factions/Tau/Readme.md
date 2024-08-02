@@ -1,4 +1,4 @@
-# T'au Empire Index v1.2
+# T'au Empire Index v1.3
 ## General Information
 
 * This Index contains all units from the current `Codex: T'au Empire`.
@@ -49,65 +49,107 @@
 
 ## Units - Standard
 
-* #### Broadside Battlesuit:
+* #### Breacher Team:
+  * **`Failure Is Not an Option:`** *Ability* <br> Enable the profile ability `Re-roll all possible failed wound rolls (ranged only) (if attacker)`.
+  * **`Shield Drone:`** *Wargear* <br> Increase the `Breacher Fire Warrior Shas’ui` `Wounds` characteristic to either **2** or **3**.
+  * **`Guardian Drone:`** *Wargear* <br> Enable the profile ability `-1 to wound roll (ranged only) (if defender)`.
+  * **`Support turret - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Support turret` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Attack Context**.)
+
+* #### Broadside Battlesuits x1:
   * **`Weapon support system:`** *Wargear* <br> Disable all `-# to hit roll` Modifiers to simulate this.
-
-* #### Ta’unar Supremacy Armour:
-  * **`Coordinated Strike:`** *Ability* <br> Enable the profile ability `Re-roll all hit roll results of 1 (if attacker)`.
-
-* #### Sun Shark Bomber:
-   * **`Pulse Bombs:`** <br> Ranged weapon profile, when using disable all `Re-roll hit roll` modifiers.
-
-* ####  Firesight Team:
-  * **`Precise Targeting:`** *Ability* <br> Enable the profile ability `Re-roll all possible failed hit rolls (ranged only) (if attacker)`.
-
-* ####  Crisis Fireknife Battlesuits:
-  * **`Fireknife:`** *Ability* <br> Enable the profile ability `Re-roll all possible failed hit rolls (ranged only) (if attacker)`.
-
-  * **`Weapon support system:`** *Ability* <br> Disable all `-# to hit roll` Modifiers to simulate this.
-
-* #### Kroot Flesh Shaper:
-  * **`Ritual Butchery:`** *Leader Ability* <br> Enable the profile ability `Critical hit : 1 extra hit (melee only) (if attacker)`.
-  * **`Rites of Feasting:`** *Leader Ability* <br> Enable the profile ability `Feel no pain 6+`. <br> Edit the value to `5` to simulate the second part of this ability.
+  * **`Shield Drone:`** *Wargear* <br> Increase the `Wounds` characteristic to either **9** or **10**.
+  * **`Twin smart missile system - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Twin smart missile system` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Attack Context**.)  
 
 * #### Cadre Fireblade:
   * **`Crack Shot:`** *Leader Ability* <br> Enable the profile ability `Increase attacks by 1 (ranged only) (if attacker)`.
+  * **`Shield Drone:`** *Wargear* <br> Increase the `Wounds` characteristic to either **4** or **5**.
 
 * #### Commander Farsight:
   * **`Way of the Short Blade:`** *Leader Ability* <br> Enable the profile ability `+1 to wound roll (if attacker)`.
 
+* #### Commander in Coldstar Battlesuit:
+  * **`Shield Generator:`** *Wargear* <br> Enable the profile ability `4++ invuln save`.
+  * **`Weapon support system:`** *Ability* <br> Disable all `-# to hit roll` Modifiers to simulate this.
+  * **`Shield Drone:`** *Wargear* <br> Increase the `Wounds` characteristic to either **7** or **8**.
+  * **`Airbursting fragmentation projector - (IF):`** *Weapon* <br> Use this weapon profile instead of `Airbursting fragmentation projector` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Attack Context**.)  
+
 * #### Commander in Enforcer Battlesuit:
   * **`Enforcer Commander:`** *Leader Ability* <br> Enable the profile ability `Degrade AP by 1`.
+  * **`Shield Generator:`** *Wargear* <br> Enable the profile ability `4++ invuln save`.
+  * **`Weapon support system:`** *Ability* <br> Disable all `-# to hit roll` Modifiers to simulate this.
+  * **`Shield Drone:`** *Wargear* <br> Increase the `Wounds` characteristic to either **7** or **8**.
+  * **`Airbursting fragmentation projector - (IF):`** *Weapon* <br> Use this weapon profile instead of `Airbursting fragmentation projector` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Attack Context**.)
+
+* ####  Crisis Fireknife Battlesuits:
+  * **`Fireknife:`** *Ability* <br> Enable the profile ability `Re-roll all possible failed hit rolls (ranged only) (if attacker)`.
+  * **`Weapon support system:`** *Ability* <br> Disable all `-# to hit roll` Modifiers to simulate this.
+  * **`Shield Drone:`** *Wargear* <br> Increase the `Wounds` characteristic to **5**.
+
+* ####  Crisis Starscythe Battlesuits:
+  * **`Shield Drone:`** *Wargear* <br> Increase the `Wounds` characteristic to **5**.
+
+* ####  Crisis Sunforge Battlesuits:
+  * **`Shield Drone:`** *Wargear* <br> Increase the `Wounds` characteristic to **5**.
 
 * #### Darkstrider:
   * **`Structural Analyser:`** *Leader Ability* <br> Enable the profile ability `+1 to wound roll (ranged only) (if attacker)`.
 
+* #### Devilfish:
+  * **`Smart missile system - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Smart missile system` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Attack Context**.)  
+
 * #### Ethereal:
   * **`Failure Is Not an Option:`** *Leader Ability* <br> Enable the profile ability `Feel no pain 5+`.
-
   * **`Hover Drone:`** *Wargear* <br> Add the **`FLY`** Keyword.
+  * **`Shield Drone:`** *Wargear* <br> Increase the `Wounds` characteristic to either **4** or **5**.
 
-* #### Breacher Team:
-  * **`Failure Is Not an Option:`** *Ability* <br> Enable the profile ability `Re-roll all possible failed wound rolls (ranged only) (if attacker)`.
-
-* #### Kroot Farstalkers:
-  * **`Bounty Hunters:`** *Ability* <br> Enable the profile ability `LETHAL HITS`.
-
-  * **`Pech’ra:`** *Wargear* <br> Enable the profile ability `IGNORES COVER`.
-
-* #### Krootox Rampagers x3:
-  * **`Kroot Linebreakers:`** <br> Melee weapon profile, when using disable all `Re-roll hit roll` modifiers.
-
-* #### Riptide Battlesuit:
-  * **`Nova Charge:`** *Ability* <br> Add the `DEVASTATING WOUNDS` ability to the weapon you wish to simulate.
-
-  * **`Weapon support system:`** *Ability* <br> Disable all `-# to hit roll` Modifiers to simulate this.
+* ####  Firesight Team:
+  * **`Precise Targeting:`** *Ability* <br> Enable the profile ability `Re-roll all possible failed hit rolls (ranged only) (if attacker)`.
 
 * #### Hammerhead Gunship:
   * **`Targeting Array:`** *Ability* <br> Add the `Re-roll one possible failed hit roll` or `Re-roll one possible failed wound roll` ability to the weapon you wish to simulate.
+  * **`Smart missile system - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Smart missile system` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Attack Context**.)  
+
+* #### Kroot Farstalkers:
+  * **`Bounty Hunters:`** *Ability* <br> Enable the profile ability `LETHAL HITS`.
+  * **`Pech’ra:`** *Wargear* <br> Enable the profile ability `IGNORES COVER`.
+
+* #### Kroot Flesh Shaper:
+  * **`Ritual Butchery:`** *Leader Ability* <br> Enable the profile ability `Sustained hits 1 (melee)`.
+  * **`Rites of Feasting:`** *Leader Ability* <br> Enable the profile ability `Feel no pain 6+`. <br> Edit the value to **5** to simulate the second part of this ability.
+
+* #### Krootox Rampagers x3:
+  * **`Kroot Linebreakers:`** <br> Melee weapon profile, when using disable all `Re-roll hit roll` modifiers.
+  
+* #### Pathfinder Team:
+  * **`Shield Drone:`** *Wargear* <br> Increase the `Pathfinder Shas’ui` `Wounds` characteristic to either **2** or **3**.
+
+* #### Riptide Battlesuit:
+  * **`Nova Charge:`** *Ability* <br> Add the `DEVASTATING WOUNDS` ability to the weapon you wish to simulate.
+  * **`Weapon support system:`** *Ability* <br> Disable all `-# to hit roll` Modifiers to simulate this.
+  * **`Twin smart missile system - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Twin smart missile system` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Attack Context**.)  
 
 * #### Sky Ray Gunship:
   * **`Targeting Array:`** *Ability* <br> Add the `Re-roll one possible failed hit roll` or `Re-roll one possible failed wound roll` ability to the weapon you wish to simulate.
+  * **`Smart missile system - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Smart missile system` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Attack Context**.)  
+
+* #### Stealth Battlesuits x3:
+  * **`Shield Drone:`** *Wargear* <br> Increase the `Stealth Shas’vre` `Wounds` characteristic to either **3** or **4**.
 
 * #### Stormsurge:
   * **`Weapon support system:`** *Ability* <br> Disable all `-# to hit roll` Modifiers to simulate this.
+  * **`Twin smart missile system - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Twin smart missile system` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Attack Context**.)  
+  * **`Twin airbursting fragmentation projector - (IF):`** *Weapon* <br> Use this weapon profile instead of `Twin airbursting fragmentation projector` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Attack Context**.)
+  
+* #### Strike Team:
+  * **`Shield Drone:`** *Wargear* <br> Increase the `Fire Warrior Shas’ui` `Wounds` characteristic to either **2** or **3**.
+  * **`Guardian Drone:`** *Wargear* <br> Enable the profile ability `-1 to wound roll (ranged only) (if defender)`.
+  * **`Support turret - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Support turret` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Attack Context**.)
+
+* #### Sun Shark Bomber:
+   * **`Pulse Bombs:`** <br> Ranged weapon profile, when using disable all `Re-roll hit roll` modifiers.
+
+## Units - Imperial Armour
+
+* #### Ta’unar Supremacy Armour:
+  * **`Coordinated Strike:`** *Ability* <br> Enable the profile ability `Re-roll all hit roll results of 1 (if attacker)`.
+  * **`Smart missile system - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Smart missile system` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Attack Context**.)

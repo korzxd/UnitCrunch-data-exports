@@ -1,6 +1,43 @@
 # T'au Index
 
-## Update v1.2
+## Update v1.3
+
+###### 02/08/2024
+### General
+
+* Changed Indirect Fire weapon profiles to match the Dataslate.
+
+* Updated profiles to be usable with **Advanced Profiles**.
+
+The following units have been modified. (Most of these have been updated to be usable with **Advanced Profiles**)
+  * Breacher Team - Added Indirect Fire weapons
+  * Broadside Battlesuits x1 - Added Indirect Fire weapons
+  * Cadre Fireblade
+  * Commander Farsight
+  * Commander in Coldstar Battlesuit - Added Indirect Fire weapons
+  * Commander in Enforcer Battlesuit - Added Indirect Fire weapons
+  * Commander Shadowsun
+  * Crisis Fireknife Battlesuits
+  * Crisis Starscythe Battlesuits
+  * Crisis Sunforge Battlesuits
+  * Darkstrider
+  * Devilfish - Added Indirect Fire weapons
+  * Ethereal
+  * Hammerhead Gunship - Added Indirect Fire weapons
+  * Kroot Carnivores x10
+  * Kroot Farstalkers
+  * Kroot Flesh Shaper
+  * Pathfinder Team
+  * Riptide Battlesuit - Added Indirect Fire weapons
+  * Sky Ray Gunship - Added Indirect Fire weapons
+  * Stealth Battlesuits x3
+  * Stormsurge - Added Indirect Fire weapons
+  * Strike Team - Added Indirect Fire weapons
+  * Ta’unar Supremacy Armour - Added Indirect Fire weapons
+
+<details>
+<summary><h2>Update v1.2</h2></summary>
+
 ###### 30/05/2024
 ### General
 
@@ -62,6 +99,7 @@
   * Hammerhead Gunship - removed `LETHAL HITS`
   * Riptide Battlesuit - removed `-1 to hit roll`
 
+</details>
 
 <details>
 <summary><h2>Update v1.1</h2></summary>

@@ -7,9 +7,6 @@ There are two sections within this document:
 
 Existing Data Exports are going to be updated so that you will not need to format these profiles yourselves, but that process will take awhile and the **Formatting a Basic Profile:** guide will help anyone until then.
 
-Below is a list of Faction Data Exports that have been updated for use with **Advanced Profiles**:
-* **Adeptus Mechanicus**
-
 > [!NOTE]  
 > These guides assumes you have already imported the Data Export you wish to use.
 

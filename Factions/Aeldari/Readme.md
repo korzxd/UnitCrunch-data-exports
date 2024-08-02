@@ -1,4 +1,4 @@
-# Aeldari Index v1.1
+# Aeldari Index v1.2
 ## General Information
 * This Index contains all units from the current `Index: Aeldari` and the `Imperial Armour: Aeldari`.
   
@@ -34,44 +34,40 @@
   * **`Hand of Asuryan:`** *Leader Ability* <br> Enable the profile ability `+1 to hit roll`.
 
 * #### Autarch:
-  * **`Mandiblasters:`** *Wargear* <br> Enable the profile ability `Critical wound : disable save`.
+  * **`Mandiblasters:`** *Wargear* <br> Enable the profile ability `Critical wound : mortal wounds equal to weapon damage`.
 
 * #### Autarch Wayleaper:
-  * **`Mandiblasters:`** *Wargear* <br> Enable the profile ability `Critical wound : disable save`.
+  * **`Mandiblasters:`** *Wargear* <br> Enable the profile ability `Critical wound : mortal wounds equal to weapon damage`.
 
 * #### Baharroth:
   * **`Cry of the Wind:`** *Leader Ability* <br> Enable the profile ability `+1 to hit roll`.
 
 * #### Corsair Voidreavers: 
-  * **`Reavers of the Void:`** *"Target's within range of an Objective Marker"* <br> Enable the profile ability `Re-roll all possible failed hit rolls`.
+  * **`Reavers of the Void:`** *Ability* <br> Enable the profile ability `Re-roll all possible failed hit rolls`.
 
-  * **`Mistshield:`** *Wargear* <br> Enable the profile ability `4++ inv`. (Only 1 model can take this Wargear, after 1 model has been slain the accuracy of the simulation drops.)
+  * **`Mistshield:`** *Wargear* <br> Change the Voidreaver Felarchs `Invuln` characteristic to **4**.
 
-  * Included `Shuriken cannon` and `Wraithcannon`. Note! these cannot be taken in a squad of 5.
+  * Included `Shuriken cannon` and `Wraithcannon`. (These cannot be taken in a squad of 5.)
 
 * #### Corsair Voidscarred:
   *This unit will need to be heavily modified!*
-  * This `Unit Composition` is set to the maximum squad size and the `Count per unit` on the weapon profiles are based on the following setup:
+  * This `Unit Composition` is set to the maximum squad size and the following roster:
     * 1 Voidscarred Felarch
     * 6 Corsair Voidscarred
     * 1 Shade Runner
     * 1 Soul Weaver
     * 1 Way Seeker
-  
-  * **`Psyker:`** *Keyword* <br> Excluded from profile.
 
   * **`Piratical Raiders:`** *Ability* <br> Enable the profile ability `Critical hit : always wound`.
 
   * **`Channeller Stones:`** *Wargear* <br> Cannot be simulated.
-  
+
   * **`Faolchú:`** *Wargear* <br> Enable the profile ability `Ignores Cover`.
 
-  * **`Mistshield:`** *Wargear* <br> Enable the profile ability `4++ inv`. (Only 1 model can take this Wargear, after 1 model has been slain the accuracy of the simulation drops.)
+  * **`Mistshield:`** *Wargear* <br> Change the Voidscarred Felarchs `Invuln` characteristic to **4**.
 
 * #### Dark Reapers x5:
-  * **`Dark Reaper Exarch:`** <br> Cannot simulate the **2** Wounds characteristic, the best practice would be to increase the Model count by 1.
-
-  * **`Tempest Launcher - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Tempest Launcher` to simulate `INDIRECT FIRE`.(Disable `Defender in Cover` from **Global Modifiers**, also the -1 to hit roll has not been included due to the Dark Reapers Ability `Inescapable Accuracy`)
+  * **`Tempest Launcher - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Tempest Launcher` to simulate `INDIRECT FIRE`.(Enable `Defender in Cover` from **Global Modifiers**)
 
   * **`Inescapable Accuracy:`** *Ability* <br> Disable all `-# to hit roll` & `Degrade BS by #` Modifiers to simulate this.
 
@@ -79,12 +75,7 @@
   * **`Cruel Amusement:`** *Ability*  <br> Use either the `Shrieker cannon - (Ignores Cover)` or `Shrieker cannon - (Sustained Hits 3)` to simulate this ability.
 
 * #### Dire Avengers x5:
-  * **`Dire Avenger Exarch:`** <br> Cannot simulate the **2** Wounds characteristic, the best practice would be to increase the Model count by 1.
-
-  * **`Shimmershield:`** *Wargear* <br> Enable the profile ability `4++ inv`. (Only 1 model can take this Wargear, after 1 model has been slain the accuracy of the simulation drops.)
-
-* #### Fire Dragons x5:
-  * **`Fire Dragon Exarch:`** <br> Cannot simulate the **2** Wounds characteristic, the best practice would be to increase the Model count by 1.
+  * **`Shimmershield:`** *Wargear* <br> Increase the Dire Avenger Exarchs `Invuln` characteristic to **4**.
 
 * #### Fire Prism:
   * **`Crystal Matrix:`** *Ability* <br> Just like the Detachment rule do the following: (This modifier does stack.)
@@ -93,12 +84,6 @@
 
 * #### Fuegan:
   * **`Burning Lance:`** *Leader Ability* <br> Enable the profile ability `+1 to hit roll`.
-
-* #### Guardian Defenders:
-  * **`Heavy Weapon Platform:`** <br> Cannot simulate the **2** Wounds characteristic, the best practice would be to increase the Model count by 1.
-
-* #### Howling Banshees x5:
-  * **`Howling Banshee Exarch:`** <br> Cannot simulate the **2** Wounds characteristic, the best practice would be to increase the Model count by 1.
 
 * #### Illic Nightspear:
   * **`Bringer of the True Death:`** *Leader Ability* <br> Enable the profile ability `Re-roll all possible failed wound rolls`.
@@ -109,25 +94,21 @@
 * #### Karandras:
   * **`Shadow Hunter:`** *Leader Ability* <br> Enable the profile ability `+1 to hit roll`.
 
-  * **`Sustained Assault:`** *Ability* <br> Modifiers already applied to all melee weapons.
-  
-  * **`The Scorpion’s Bite:`** *Wargear* <br> Modifiers already applied to all melee weapons.
-
 * #### Maugan Ra:
   * **`Harvester of Souls:`** *Leader Ability* <br> Enable the profile ability `+1 to hit roll`.
 
   * **`Face of Death:`** *Ability* <br>  Use the `The Maugetar - (Face of Death)` to simulate this ability.
 
 * #### Night Spinner:
-  * **`Doomweaver - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Doomweaver` to simulate `INDIRECT FIRE`. (Disable `Defender in Cover` from **Global Modifiers**.)
+  * **`Doomweaver - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Doomweaver` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Global Modifiers**.)
 
 * #### Shining Spears x3:
-  * **`Shining Spear Exarch:`** <br> Cannot simulate the **3** Wounds characteristic, the best practice would be to increase the Model count by 1 and monitor when 3 models have been slain with 1 wound remaining.
+  * **`Shimmershield:`** *Wargear* <br> Change the `Shining Spear Exarch` Invuln Characteristic to **5**.
 
-  * **`Shimmershield:`** *Wargear* <br> Enable the profile ability `4++ inv`. (Only the Exarch can take this Wargear, after 1 model has been slain the accuracy of the simulation drops.)
+  * **`4++ Invuln:`** *Ability* <br> Enable this profile ability.
 
 * #### Shroud Runners x3:
-  * **`Target Acquisition:`** *Ability* <br> Enable the profile ability `Critical hit : always wound`.
+  * **`Target Acquisition:`** *Ability* <br> Enable the profile ability `LETHAL HITS (RANGED)`.
 
 * #### Skyweavers:
   * **`Scything Swipes:`** *Ability* <br> Ranged weapon profile, when using disable all `Re-roll hit roll` modifiers and adjust the weapon count per unit to the desired squad size.
@@ -136,23 +117,15 @@
   * **`Blitz:`** *Ability* <br> Enable the profile ability `Increase attacks by 3`.
 
 * #### Spiritseer:
-  * **`Spirit Mark:`** *Leader Ability* <br> Enable the profile abilities `Critical hit : always wound` & `+1 to hit roll`.
-
-* #### Storm Guardians:
-  * **`Serpent's Scale Platform:`** <br> Cannot simulate the **2** Wounds characteristic, the best practice would be to increase the Model count by 1.
+  * **`Spirit Mark:`** *Leader Ability* <br> Enable the profile abilities `LETHAL HITS` & `+1 to hit roll`.
 
 * #### Striking Scorpions x5:
-  * **`Striking Scorpion Exarch:`** <br> Cannot simulate the **2** Wounds characteristic, the best practice would be to increase the Model count by 1.
-
-  * **`Mandiblasters:`** *Wargear* <br> Modifiers applied to all melee weapons.
+  * **`Mandiblasters:`** *Wargear* <br> Enable the profile ability `Critical wound : mortal wounds equal to weapon damage`.
 
 * #### Support Weapons:
-  * **`D-cannon - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `D-cannon` to simulate `INDIRECT FIRE`. (Disable `Defender in Cover` from **Global Modifiers**.)
+  * **`D-cannon - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `D-cannon` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Global Modifiers**.)
   
-  * **`Shadow weaver - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Shadow weaver` to simulate `INDIRECT FIRE`. (Disable `Defender in Cover` from **Global Modifiers**.)
-
-* #### Swooping Hawks x5:
-  * **`Swooping Hawk Exarch:`** <br> Cannot simulate the **2** Wounds characteristic, the best practice would be to increase the Model count by 1.
+  * **`Shadow weaver - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Shadow weaver` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Global Modifiers**.)
 
 * #### The Visarch:
   * **`Champion of Ynnead:`** *Ability* <br> Instead of using `Asu-var, the Sword of Silent Screams` use one of the following:
@@ -161,38 +134,37 @@
     * Lethal Hits:  `Asu-var, the Sword of Silent Screams - LH`
 
 * #### Troupe Master:
-  * **`Choreographer of War:`** *Leader Ability* <br> Enable the profile ability `Critical wound : disable save`.
+  * **`Choreographer of War:`** *Leader Ability* <br> Enable the profile ability `Devastating wounds (melee)`.
   
   * **`Cegorach’s Favour:`** *Ability* <br> Use the same method shown above in the Army Rule `Strands of Fate`.
 
+* #### Warlock Conclave x2:
+  * **`Protect (Psychic):`** *Ability* <br> Enable the profile ability `-1 to wound roll`.
+
 * #### Warlock Skyrunner:
   * **`Runes of Battle (Psychic):`** *Leader Ability* <br> Enable only one of the following profile abilities:
-    * **Conceal:** `-1 to hit roll`.
+    * **Conceal:** `Stealth`.
     * **Reveal:** `Ignore cover`.
 
-* #### Warp Spiders x5:
-  * **`Warp Spider Exarch:`** <br> Cannot simulate the **2** Wounds characteristic, the best practice would be to increase the Model count by 1.
+* #### Warlock Skyrunner Conclave x2:
+  * **`Protect (Psychic):`** *Ability* <br> Enable the profile ability `-1 to wound roll`.
 
 * #### Wave Serpent:
   * **`Wave Serpent Shield:`** *Ability* <br> Ranged weapon profile, when using disable all `Re-roll hit roll` modifiers.
 
 * #### Windriders x3: 
-    * **`Swift Demise:`** *Ability* <br>
-      *  *"Closest eligible target"* <br> Enable the profile ability `Re-roll all hit roll results of 1`.
-  
-      *  *"Within range of an objective marker they control"* <br> Enable the profile ability `Re-roll all possible failed hit rolls`.
+    * **`Swift Demise:`** *Ability* <br> Enable one of the following profile abilities:
+      * `Re-roll all hit roll results of 1`
+      * `Re-roll all possible failed hit rolls`.
+
+* #### Wraithblades x5: 
+    * **`Forceshield:`** *Wargear* <br> Enable the profile ability `4++ invuln save`.
 
 * #### Wraithknight: 
     * **`Scattershield:`** *Wargear* <br> Enable the profile ability `4++ invuln save`.
 
 * #### Yvraine:
   * **`Herald of Ynnead:`** *Leader Ability* <br> Enable the profile ability `Feel no pain 5+`.
-
-* #### Warlock Skyrunner Conclave x2:
-  * **`Protect (Psychic):`** *Ability* <br> Enable the profile ability `-1 to wound roll`.
-
-* #### Warlock Conclave x2:
-  * **`Protect (Psychic):`** *Ability* <br> Enable the profile ability `-1 to wound roll`.
 
 ## Units - Imperial Armour
 

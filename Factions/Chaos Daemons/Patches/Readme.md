@@ -7,7 +7,8 @@ Patch 1 | Chaos-Daemons-v1.0
 Patch 2 | Chaos-Daemons-v1.0, Chaos-Daemons-v1.1
 
 ## Patch 2
-###### 08/08/2024
+### 08/08/2024
+ *Updates v1.0/v1.1 to v1.2*
 
 The following units have been modified. (Most of these have been updated to be usable with **Advanced Profiles**)
   * Bloodletters
@@ -43,6 +44,6 @@ The following units have been modified. (Most of these have been updated to be u
 
 ## Patch 1
 ### 24/06/2024
-  Updates v1.0 to v1.1.
+  *Updates v1.0 to v1.1.*
   
   * **Rendmaster on Blood Throne:** Changed profile ability `Improve AP by 1 (melee only)` to  `Improve AP by 1 (melee only) (if attacker)`

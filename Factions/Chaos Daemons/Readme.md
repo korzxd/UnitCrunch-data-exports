@@ -138,7 +138,7 @@
   * **`Skullmaster’s Fury:`** *Leader Ability* <br> Use the weapon profile with the suffix `(Skullmaster’s Fury)`. (Enable `Attacker charged` from **Global Modifiers**.)
 
 * #### Skulltaker:
-  * **`Lord of Decapitations:`** *Leader Ability* <br> Enable the profile ability `Critical wound : disable save (inc. invuln) (melee only)`.
+  * **`Lord of Decapitations:`** *Leader Ability* <br> Enable the profile ability `Devastating wounds (melee)`.
 
 * #### Soul Grinder:
   * **`Phlegm bombardment - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Phlegm bombardment` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Global Modifiers**.)

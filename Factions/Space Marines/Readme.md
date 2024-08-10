@@ -1,10 +1,10 @@
-# Space Marine Index v1.3
+# Space Marine Index v1.2
 ## General Information
 * **Excluded Units:**
   * Epic Heroes
   * Chapters
   * Legends (Some are included but need to be reviewed)
-
+  
 * **`Leaders`** are all separate unit profiles acting as if they were a sole unit on the battlefield, they include their **`Leader`** ability but this should only be used in an **Advanced Profile**. (Refer to [Mixing_Profiles.md](/Guides/Mixing_Profiles.md))
 
 * All unit profiles that have a squad size have been created at their minimum size unless stated otherwise.
@@ -61,7 +61,7 @@
   *  **`Keep the Banner High:`** *Leader Ability* <br> Enable the profile abilities `+1 to hit roll` & `+1 to wound roll`.
 
 * #### Apothecary biologis:
-  *  **`Surgical Precision:`** *Leader Ability* <br> Enable the profile ability `Critical hit : always wound`.
+  *  **`Surgical Precision:`** *Leader Ability* <br> Enable the profile ability `Lethal Hits`.
 
 * #### Assault Intercessor Squad x5: 
     * **`Shock Assault:`** *Ability* <br> Enable the profile ability `Re-roll all possible failed wound rolls (melee only)`.
@@ -83,7 +83,7 @@
   * **`Brutalis Charge:`** *Ability* <br> Melee weapon profile, when using disable all `Re-roll hit roll` modifiers.
 
 * #### Captain:
-  * **`Finest Hour:`** *Ability* <br> Enable the profile abilities `Critical wound : disable save` & `Increase attacks by 3`.
+  * **`Finest Hour:`** *Ability* <br> Enable the profile abilities `Devastating wounds (melee)` & `Increase attacks by 3`.
   * **`Relic Shield:`** *Wargear* <br> Change Wounds to 6.
   
 * #### Captain (Jump pack): TODO
@@ -103,7 +103,7 @@
 * #### Chaplain (On Bike):
   * **`Litany of Hate:`** *Leader Ability* <br> Enable the profile ability `+1 to wound roll`.
 
-  *  **`Catechism of Fire:`** *Ability* <br> Enable the profile ability `Critical wound : disable save`.
+  *  **`Catechism of Fire:`** *Ability* <br> Enable the profile ability `Devastating wounds (ranged)`.
 
 * #### Chaplain (Terminator Armour):
   * **`Litany of Hate:`** *Leader Ability* <br> Enable the profile ability `+1 to wound roll`.
@@ -114,14 +114,11 @@
   * **`Command Squad:`** *Ability* <br> Enable the profile ability `-1 to wound roll`.
 
 * #### Desolation Squad:
-  * **No Visibility:** *Ability* <br> Enable the profile ability `-1 to hit roll` and the **Global Modifier** `Defender in Cover` when firing with `INDIRECT FIRE` weapons.
-  * **`Targeter Optics:`** <br> Disable the profile ability `-1 to hit roll` and enable `IGNORES COVER`.
-
-* #### Devastator Squad:
-  * **`Signum:`** *Ability* <br> Enable the profile ability `IGNORES COVER`.
+  * **`Castellan launcher - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Castellan launcher` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Global Modifiers**.)
+  * **`Vengor launcher - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Vengor launcher` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Global Modifiers**.)
 
 * #### Eliminator Squad:
-  * **`Mark the Target:`** *Ability* <br> Enable the profile ability `Critical wound : disable save`.
+  * **`Mark the Target:`** *Ability* <br> Enable the profile ability `Devastating wounds (ranged)`.
 
 * #### Eradicator Squad:
     * **`Total Obliteration:`** *Ability* <br> Change the `Re-roll all damage results of 1-#` to the range you would like to simulate.
@@ -134,6 +131,9 @@
 
 * #### Gladiator Valiant:
   *  **`Ferocious Assault:`** *Ability* <br> Ability is included in the `Twin las-talon - (Ferocious Assault)` weapon profile. <br> Use the `Twin las-talon - Standard` to not simualte the above scenario.
+
+* #### Heavy Intercessor Squad x5:
+  * **`Unyielding in the Face of the Foe[]:`** *Ability* <br> Enable the profile ability `Damage is equal to 1 : +1 to armour save roll (if defender)`.
         
 * #### Incursor squad:
   * **`Haywire Mine:`** *Wargear* <br> Weapon profile, when using disable all `Re-roll hit roll` modifiers.
@@ -157,20 +157,23 @@
 * #### Librarian (Terminator Armour)
   * **`Psychic Hood (Psychic):`** *Leader Ability* <br> Enable the profile ability `Feel no pain 4+ (if attack is psychic)`.
   
-  * **`Veil of Time (Psychic):`** *Leader Ability* <br> Enable the profile ability `Critical hit : 1 extra hit`.
+  * **`Veil of Time (Psychic):`** *Leader Ability* <br> Enable the profile ability `Sustained hits 1`.
 
 * #### Lieutenant:
   *  **`Storm Shield:`** <br> Change Invuln Characteristic to `4`.
-  *  **Tactical Precision** *Leader Ability* <br> Enable the profile ability `Critical hit : always wound `.
+  *  **Tactical Precision** *Leader Ability* <br> Enable the profile ability `Lethal Hits`.
 
 * #### Lieutenant (Phobos Armour):
-  *  **Tactical Precision** *Leader Ability* <br> Enable the profile ability `Critical hit : always wound `.
+  *  **Tactical Precision** *Leader Ability* <br> Enable the profile ability `Lethal Hits`.
 
 * #### Lieutenant (Reiver Armour):
-  *  **Tactical Precision** *Leader Ability* <br> Enable the profile ability `Critical hit : always wound `.
+  *  **Tactical Precision** *Leader Ability* <br> Enable the profile ability `Lethal Hits`.
 
 * #### Outriders Squad:
   * Excluded `Invader ATV` and the weapons `Multi-melta` & `Onslaught cannon`.
+
+* #### Repulsor:
+  * **`Hunter-slayer missile - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Hunter-slayer missile` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Global Modifiers**.)
 
 * #### Repulsor Executioner:
   * **`Executioner:`** *Ability* <br> Enable the profile ability `+1 to hit roll`.
@@ -185,10 +188,13 @@
   *  **`Vengeance of the Omnissiah:`** <br> Use the weapon profile `Omnissian power axe - (Vengeance of the Omnissiah)`.
 
 * #### Terminator assault squad:
-  * **`Storm Shield:`** *Wargear* <br> Change Wounds to 4.
+  * **`Storm Shield:`** *Wargear* <br> Change Wounds to 4.(*You can convert this profile to an advanced profile and have up to 5 uniquely configured Terminators.*)
 
 * #### Terminator squad:
   * **`Fury of the First:`** *Ability* <br> Enable the profile ability `+1 to hit roll`.
+
+* #### Vanguard veteran squad (Jump packs) x5:
+  *  **`Storm Shield:`** <br> Change Invuln Characteristic to `4`.(*You can convert this profile to an advanced profile and have up to 5 uniquely configured Vanguard veterans.*)
 
 * #### Vindicator:
   *  **`Siege Shield:`** *Ability* <br> Disable all `-# to hit roll` Modifiers.

@@ -1,8 +1,58 @@
 # Space Marine Index
-## Update v1.3
 
-###### 24/06/2024
+## Update v1.4
+###### 10/08/2024
 ### General
+
+* Changed Indirect Fire weapon profiles to match the Dataslate.
+
+* Updated profiles to be usable with **Advanced Profiles**.
+
+The following units have been modified. (Most of these have been updated to be usable with **Advanced Profiles**)
+  * Aggressor Squad x3
+  * Ancient (Terminator)
+  * Apothecary biologis
+  * Assault Intercessor Squad x5
+  * Assault Intercessors (Jump Packs) x5
+  * Bladeguard Ancient
+  * Bladeguard veteran squad x3
+  * Captain
+  * Captain (Jump pack)
+  * Chaplain
+  * Chaplain (Jump Pack)
+  * Chaplain (On Bike)
+  * Chaplain (Terminator Armour)
+  * Company Heroes
+  * Desolation Squad
+  * Devastator Squad x5
+  * Eliminator Squad
+  * Eradicator Squad x3
+  * Heavy Intercessor Squad x5
+  * Hellblaster squad x5
+  * Infiltrator Squad x5
+  * Intercessor Squad x5
+  * Librarian
+  * Librarian (Phobos Armour)
+  * Librarian (Terminator Armour)
+  * Lieutenant
+  * Lieutenant (Phobos Armour)
+  * Lieutenant (Reiver Armour)
+  * Lieutenant with combi-weapon 
+  * Reiver Squad x5
+  * Repulsor
+  * Scout squad x5
+  * Sternguard veteran squad x5
+  * Tactical squad 
+  * Terminator squad x5
+  * Vanguard veteran squad (Jump packs) x5
+  * Whirlwind
+
+<details>
+<summary><h2>Update v1.3</h2></summary>
+
+###### 20/06/2024
+### General
+
 
 * Modified the `Readme.md` to reflect the `Psychic` Keyword.
 
@@ -10,6 +60,8 @@
   * Librarian
   * Librarian (Phobos Armour)
   * Librarian (Terminator Armour)
+  * Devastator Squad x5
+  * Desolation squad
 
 <details>
 <summary><h2>Update v1.2</h2></summary>

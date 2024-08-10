@@ -7,10 +7,8 @@ Below are some related links.
 * https://github.com/dixhuit/unitcrunch-issue-tracker
 
 ## :loudspeaker: Latest Changes
-* **Drukhari** & **Chaos Daemons** Updated to be compatible with **Advanced Profiles** and includes the latest Dataslate changes.
 
-* Corrected the **`Fulgurite Electro-Priests x5`** Weapon count Per unit in the **Adeptus Mechanicus** Data Export.
-
+* **Space Marines**, **Drukhari** & **Chaos Daemons** Updated to be compatible with **Advanced Profiles** and includes the latest Dataslate changes.
 
 ## General Information
 The Factions folder has a directory for each 40k Faction that we have a Data Export for, new Factions will be added over time.
@@ -30,6 +28,7 @@ Current list of Faction Data Exports that have been updated for use with **Advan
 * **Aeldari**
 * **Chaos Daemons**
 * **Drukhari**
+* **Space Marines**
 * **T'au Empire**
 
 If you wish to update your existing Data Export take a look at that Factions Patches Folder and read the [Patches.md](/Guides/Patches.md) guide on how to import them.

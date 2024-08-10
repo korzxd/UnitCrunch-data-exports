@@ -7,7 +7,7 @@ Below are some related links.
 * https://github.com/dixhuit/unitcrunch-issue-tracker
 
 ## :loudspeaker: Latest Changes
-* **Aeldari** & **T'au Empire** Updated to be compatible with **Advanced Profiles** and includes the latest Dataslate changes.
+* **Drukhari** & **Chaos Daemons** Updated to be compatible with **Advanced Profiles** and includes the latest Dataslate changes.
 
 * Corrected the **`Fulgurite Electro-Priests x5`** Weapon count Per unit in the **Adeptus Mechanicus** Data Export.
 
@@ -28,6 +28,8 @@ UnitCrunch's latest update v0.64 has introduced **Advanced Profiles**, this will
 Current list of Faction Data Exports that have been updated for use with **Advanced Profiles**:
 * **Adeptus Mechanicus**
 * **Aeldari**
+* **Chaos Daemons**
+* **Drukhari**
 * **T'au Empire**
 
 If you wish to update your existing Data Export take a look at that Factions Patches Folder and read the [Patches.md](/Guides/Patches.md) guide on how to import them.

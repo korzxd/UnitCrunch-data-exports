@@ -25,10 +25,10 @@ The following units have been modified. (Most of these have been updated to be u
   * Voidraven Bomber
   * Wyches
 
-* New Unit Profiles
+ New Unit Profiles
   * Tantalus
 
-* Removed Unit Profiles
+Removed Unit Profiles
   * Beastmaster x1
   * Clawed Fiends x1
   * Court of the Archon + Archon
@@ -43,7 +43,7 @@ The following units have been modified. (Most of these have been updated to be u
   * Wyches x10 + Lelith Hesperax
   * Wyches x10 + Succubus
 
-* Renamed Units
+Renamed Units
   * Beastmaster (unit)  ->  Beastmaster
   * Kabalite Warriors x10  ->  Kabalite Warriors
   * Wyches x10  ->  Wyches

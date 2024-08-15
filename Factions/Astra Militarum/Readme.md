@@ -1,4 +1,4 @@
-# Astra Militarum Index v1.1
+# Astra Militarum Index v1.2
 ## General Information
 * This Index contains all units from the current `Index: Astra Militarum` and the `Imperial Armour: Astra Militarum`.
   
@@ -23,7 +23,7 @@
    
 ## Detachment: Combined Regiment
 ### Rule
-* **`Born Soldiers:`**  Add `LETHAL HITS` to **Global Modifiers**.
+* **`Born Soldiers:`**  Add `LETHAL HITS` to the **Global Modifiers** and use as needed.
 ### Stratagems
 * **`Armoured Might:`** Add `-1 to damage (Vehicle Only)` to **Global Modifiers**.
 ### Enhancements
@@ -34,10 +34,10 @@
 * #### Basilisk:
   * **`Earthshaker cannon - (Indirect Fire):`** *Weapon* <br> Use this weapon profile instead of `Earthshaker cannon` to simulate `INDIRECT FIRE`. (Enable `Defender in Cover` from **Global Modifiers**.)
 
-* #### Bullgryn Squad x3, Bullgryn Squad x6:
-  * **`Brute Shield:`** *Wargear* <br> Enable the profile ability `4++ invuln save`.
-
-  * **`Slabshield:`** *Wargear* <br> Change Wounds to 4.
+* #### Bullgryn Squad x3:
+  *  **`Brute Shield:`** <br> Change Invuln Characteristic to `4`.
+  * **`Slabshield:`** *Wargear* <br> Change Wounds to `4`.
+  *You can add a model type to this profile to switch between shields.*
 
 * #### Cadian Castellan:
   * **`Senior Officer:`** *Leader Ability* <br> Enable the profile ability `Critical hit : 1 extra hit`.
@@ -51,7 +51,7 @@
   * **`Medi-pack:`** *Wargear* <br> Enable the profile ability `Feel no pain 6+`.
 
 * #### Catachan Jungle Fighters x10:
-    * **`Jungle Fighters:`** *Ability* <br> Modifiers already applied to melee weapons.
+    * **`Jungle Fighters:`** *Ability* <br> Enable the profile abilities `Improve AP by 1` & `+1 to strength`.
 
 * #### Death Korps of Krieg x10:
     * **`Grim Demeanour:`** *Ability* <br>
@@ -63,9 +63,7 @@
 
   * **`Rearm, Reload, Fire:`** *Ability* <br> Use the weapon profiles with the suffix `RRF`.
 
-* #### Gaunts Ghosts:
-  * **`Ibram Gaunt:`** <br> Cannot simulate the **3** Wounds characteristic, **4+** Save & **5++** inv Save.
-  
+* #### Gaunts Ghosts:  
   * * **`Tanith Camo-cloaks:`** *Ability* <br> Enable `Defender in cover` from the **Global Modifiers** when this unit is selected as the Defender.
 
 * #### Heavy weapons squad:
@@ -109,6 +107,12 @@
 
   * **`Medi-pack:`** *Wargear* <br> Enable the profile ability `Feel no pain 6+`.
 
+* #### Ministorum Priest:
+  * **`Holy Piety:`** *Leader Ability* <br> Enable the profile ability `Critical hit : 1 extra hit`.
+
+* #### Munitorum Servitors:
+  * **`Mindlock:`** *Ability* <br> Enable the profile abilities `Improve BS by 1 (if attacker)` and `Improve WS by 1 (if attacker)`.
+
 * #### Nork Deddog:
   * **`Thunderous Head-butt:`** *Ability* <br> Melee weapon profile, when using disable all `Re-roll hit roll` modifiers.
 
@@ -119,7 +123,7 @@
 
   * **`Slabshield:`** *Wargear* <br>  Change Wounds to 7.
 
-* #### Ogryn Squad x3, Ogryn Squad x6:
+* #### Ogryn Squad x3:
   * **`Point-blank Barrage:`** *Ability* <br> Enable the profile ability `Improve AP by 1 (ranged only)`.
 
 * #### Platoon Command Squad:
@@ -135,19 +139,19 @@
 
   * **`Psychic Barrier:`** *Ability* <br> Enable the profile ability `4++ invuln save`.
 
-* #### Regimental Preacher:
-  * **`Holy Piety:`** *Leader Ability* <br> Enable the profile ability `Critical hit : 1 extra hit`.
-
 * #### Rogal Dorn Battle Tank:
   * **`Ablative Plating:`** *Ability* <br> Cannot simulate.
 
-* #### Scout Sentinels x1, Scout Sentinels x2, Scout Sentinels x3:
+* #### Scout Sentinels x1:
   * **`Daring Recon:`** *Ability* <br> Enable the profile ability `Re-roll all hit roll results of 1`.
 
 * #### Sergeant Harker:
   * **`Harker's Hellraisers:`** *Leader Ability* <br> Enable the profile ability `-1 to hit roll (ranged only)`.
 
   * **`Payback Time:`** *Ability* <br> Ranged weapon profile, use `Payback - (Payback Time)` instead of `Payback`.
+
+* #### Tech-Priest Enginseer:
+  *  **`Vengeance of the Omnissiah:`** <br> Use the weapon profile `Enginseer axe - (Vengeance for the Omnissiah)`.
 
 * #### Tempestus Scions: 
   * **`Storm Troopers:`** *Ability - "Target's within range of an Objective Marker"* <br> Enable the profile ability `Re-roll all possible failed hit rolls`.

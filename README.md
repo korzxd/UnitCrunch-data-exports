@@ -8,7 +8,7 @@ Below are some related links.
 
 ## :loudspeaker: Latest Changes
 
-* **Space Marines**, **Drukhari** & **Chaos Daemons** Updated to be compatible with **Advanced Profiles** and includes the latest Dataslate changes.
+* **Astra Militarum**, **Space Marines**, **Drukhari** & **Chaos Daemons** Updated to be compatible with **Advanced Profiles** and includes the latest Dataslate changes.
 
 ## General Information
 The Factions folder has a directory for each 40k Faction that we have a Data Export for, new Factions will be added over time.
@@ -26,6 +26,7 @@ UnitCrunch's latest update v0.64 has introduced **Advanced Profiles**, this will
 Current list of Faction Data Exports that have been updated for use with **Advanced Profiles**:
 * **Adeptus Mechanicus**
 * **Aeldari**
+* **Astra Militarum**
 * **Chaos Daemons**
 * **Drukhari**
 * **Space Marines**

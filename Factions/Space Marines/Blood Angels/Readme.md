@@ -1,4 +1,4 @@
-# Blood Angels Index v1.0
+# Blood Angels Index v1.2
 ## General Information
 * **Excluded Legends:**  
 * **`Leaders`** are all separate unit profiles acting as if they were a sole unit on the battlefield, they include their **`Leader`** ability but this should only be used in an **Advanced Profile**. (Refer to [Mixing_Profiles.md](/Guides/Mixing_Profiles.md)) (See exceptions below)

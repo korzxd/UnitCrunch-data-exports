@@ -8,7 +8,7 @@ Below are some related links.
 
 ## :loudspeaker: Latest Changes
 
-* **Astra Militarum**, **Space Marines**, **Drukhari** & **Chaos Daemons** Updated to be compatible with **Advanced Profiles** and includes the latest Dataslate changes.
+* **Blood Angels**, **Astra Militarum**, **Space Marines**, **Drukhari** & **Chaos Daemons** Updated to be compatible with **Advanced Profiles** and includes the latest Dataslate changes.
 
 ## General Information
 The Factions folder has a directory for each 40k Faction that we have a Data Export for, new Factions will be added over time.
@@ -30,6 +30,7 @@ Current list of Faction Data Exports that have been updated for use with **Advan
 * **Chaos Daemons**
 * **Drukhari**
 * **Space Marines**
+  * **Blood Angels**
 * **T'au Empire**
 
 If you wish to update your existing Data Export take a look at that Factions Patches Folder and read the [Patches.md](/Guides/Patches.md) guide on how to import them.

@@ -1,4 +1,4 @@
-# Blood Angels Index v1.2
+# Blood Angels Index v1.0
 ## General Information
 * **Excluded Legends:**  
 * **`Leaders`** are all separate unit profiles acting as if they were a sole unit on the battlefield, they include their **`Leader`** ability but this should only be used in an **Advanced Profile**. (Refer to [Mixing_Profiles.md](/Guides/Mixing_Profiles.md)) (See exceptions below)
@@ -13,7 +13,7 @@
 ## Detachment Rule
 * **`Sons of Sanguinius:`** <br> Add these two Modifiers to the **Global Modifiers**.
     * `Increase attacks by 1 (if attacker charged) (melee only) (if attacker)`
-    * `+1 to strength (if attacker charged) (melee only) (if attacker)`
+    * `+2 to strength (if attacker charged) (melee only) (if attacker)`
 
 ## Stratagems
 * **`Red Rampage (1CP):`** <br> Add these two Modifiers to the **Global Modifiers**.

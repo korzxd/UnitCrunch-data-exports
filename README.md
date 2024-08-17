@@ -1,12 +1,16 @@
 # UnitCrunch-data-exports
 A collection repository of Warhammer 40k factions. These .txt files are Data Exports that can be imported into the popular web application UnitCrunch.
 
+If you need any help interacting with the repository and UnitCrunch we have a basic [User Guide which you can find here.](/Guides/User_Guide.md)
+
 Below are some related links.
 * https://www.unitcrunch.com/
 * https://www.reddit.com/r/UnitCrunch/
 * https://github.com/dixhuit/unitcrunch-issue-tracker
 
 ## :loudspeaker: Latest Changes
+
+* A new User Guide has been written to help guide anyone unfamiliar with interacting between this repository and UnitCrunch. 
 
 * **Blood Angels**, **Astra Militarum**, **Space Marines**, **Drukhari** & **Chaos Daemons** Updated to be compatible with **Advanced Profiles** and includes the latest Dataslate changes.
 

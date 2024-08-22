@@ -10,7 +10,9 @@ Below are some related links.
 
 ## :loudspeaker: Latest Changes
 
-* New Faction: Adeptus Custodes are now available!
+* **Genestealer Cults** has now been Updated to the codex & Dataslate changes, the profiles are also now compatible with **Advanced Profiles**.
+
+* New Faction: **Adeptus Custodes** are now available!
 
 * A new User Guide has been written to help guide anyone unfamiliar with interacting between this repository and UnitCrunch. 
 
@@ -34,6 +36,7 @@ Current list of Faction Data Exports that have been updated for use with **Advan
 * **Astra Militarum**
 * **Chaos Daemons**
 * **Drukhari**
+* **Genestealer Cults**
 * **Space Marines**
   * **Blood Angels**
 * **T'au Empire**
@@ -48,6 +51,5 @@ If you wish to contribute please read the `contributing.md`, here we outline the
 There are also quick start templates in the `Templates` directory.
 
 ## :clipboard: Todo list
-- [ ] Update Existing Factions to be compatible with Advanced Profiles
-- [ ] Dataslate Changes & MFM
-- [ ] Genestealers Cults Codex Changes
+- [ ] Update **Imperial Agents** with the new Codex changes and to become compatible with **Advanced Profiles**
+- [ ] Next Faction - Orks WAAAGH!!

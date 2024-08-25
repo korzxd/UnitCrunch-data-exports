@@ -10,11 +10,7 @@ Below are some related links.
 
 ## :loudspeaker: Latest Changes
 
-* **Genestealer Cults** has now been Updated to the codex & Dataslate changes, the profiles are also now compatible with **Advanced Profiles**.
-
-* New Faction: **Adeptus Custodes** are now available!
-
-* A new User Guide has been written to help guide anyone unfamiliar with interacting between this repository and UnitCrunch. 
+* New Faction: **Orks** are now available!
 
 ## General Information
 The Factions folder has a directory for each 40k Faction that we have a Data Export for, new Factions will be added over time.
@@ -37,6 +33,7 @@ Current list of Faction Data Exports that have been updated for use with **Advan
 * **Chaos Daemons**
 * **Drukhari**
 * **Genestealer Cults**
+* **Orks**
 * **Space Marines**
   * **Blood Angels**
 * **T'au Empire**
@@ -51,5 +48,5 @@ If you wish to contribute please read the `contributing.md`, here we outline the
 There are also quick start templates in the `Templates` directory.
 
 ## :clipboard: Todo list
+- [ ] Next Faction - Leagues of Votann
 - [ ] Update **Imperial Agents** with the new Codex changes and to become compatible with **Advanced Profiles**
-- [ ] Next Faction - Orks WAAAGH!!

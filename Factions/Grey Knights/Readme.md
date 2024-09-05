@@ -1,7 +1,17 @@
-# `Grey Knights` v0.1
+# `Grey Knights` v0.2
 ## General Information
   
+* **`Leaders`** are all separate unit profiles acting as if they were a sole unit on the battlefield, they include their **`Leader`** ability but this should only be used in an **Advanced Profile**. (Refer to [Mixing_Profiles.md](/Guides/Mixing_Profiles.md))
+  
 * All unit profiles that have a squad size have been created at their minimum size unless stated otherwise.
+  
+* All unit profile weapons have the default maximum `Count per unit` for that squad size.
+  
+* All units that have the `Damaged: 1-X Wounds Remaining` ability have a `-1 to hit roll (if attacker)` ability in their unit profile that can be enabled.
+  
+* All unit profiles have the weapons shown on their datasheet unless specified.
+  
+* Some Units have Abilities in the form of a Weapon Profile these will have `- (Ability)` at the end of their weapon name.
   
 ## Army Rule
 * **`Teleport Assault:`**<br>
@@ -24,6 +34,44 @@ Add `Degrade AP by 1` ability to the **Global Modifiers** if defender.
 Add `+1 to wound roll (melee only)` and `+1 to damage (melee only) (DAEMON only)` to the profile abilities of that unit.
 
 ## Units - Standard
+
+* #### Brother-Captain:
+  *  **`Empyric Amplification (Psychic):`** *Leader Ability*<br>
+  Enable the profile ability `Critical hit : 1 extra hit (if attacker)`.
+  *  **`Focused Mind (Psychic):`** *Ability*<br>
+  Enable the profile ability `Re-roll all possible failed wound rolls (if attacker)`.
+
+* #### Brother-Captain Stern:
+  *  **`Exemplar of the Silvered Host:`** *Leader Ability*<br>
+  Enable the profile ability `Critical wound : 1 mortal wound (if attacker)`.
+
+* #### Brotherhood Champion:
+  *  **`Martial Fury:`** *Ability*<br>
+  Enable the profile abilities `Re-roll all possible failed hit rolls (melee only) (if attacker) (CHARACTER only)` and `Re-roll all possible failed wound rolls (melee only) (if attacker) (CHARACTER only)`.
+
+* #### Brotherhood Chaplain:
+  *  **`Words of Power (Psychic):`** *Leader Ability*<br>
+  Enable the profile ability `+1 to wound roll (melee only) (if attacker)`.
+
+* #### Brotherhood Librarian:
+  *  **`Santic Hood:`** *Leader Ability*<br>
+  Enable the profile ability `Feel no pain 4+ (if attack is psychic)`.
+  *  **`Vortex of Doom (Psychic):`** *Ability*<br>
+  Ranged weapon profiles for 2D3 and 2D6 damage.
+
+* #### Grand Master Voldus:
+*  **`Sanctuary (Psychic):`** *Leader Ability*<br>
+  Enable the profile ability `-1 to hit roll (if defender)`.
+*  **`Hammer Aflame (Psychic):`** *Ability*<br>
+  Ranged weapon profiles for D3 and D3 + 3 damage.
+
+* #### Grand Master In Nemesis Dreadknight:
+*  **`Surge of Wrath (Psychic):`** *Ability*<br>
+  Enable the profile abilities `Re-roll all possible failed hit rolls (melee only) (if attacker) (MONSTER, VEHICLE only)`, `Re-roll all possible failed wound rolls (melee only) (if attacker) (MONSTER, VEHICLE only)` and `Re-roll all damage results of 1–2 (melee only) (if attacker) (MONSTER, VEHICLE only)`.
+
+* #### Kaldor Draigo:
+*  **`Untouchable Purity:`** *Leader Ability*<br>
+  Enable the profile ability `Feel no pain 4+ (mortal wounds only)`.
 
 * #### Brotherhood Terminator Squad:
 *  **`Hammerhand (Psychic):`** *Ability*<br>

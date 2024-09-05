@@ -1,4 +1,4 @@
-# `Grey Knights` v0.2
+# `Grey Knights` v0.3
 ## General Information
   
 * **`Leaders`** are all separate unit profiles acting as if they were a sole unit on the battlefield, they include their **`Leader`** ability but this should only be used in an **Advanced Profile**. (Refer to [Mixing_Profiles.md](/Guides/Mixing_Profiles.md))
@@ -76,3 +76,7 @@ Add `+1 to wound roll (melee only)` and `+1 to damage (melee only) (DAEMON only)
 * #### Brotherhood Terminator Squad:
 *  **`Hammerhand (Psychic):`** *Ability*<br>
   Enable the profile ability `Critical hit : always wound (if attacker charged) (melee only) (if attacker)`.
+
+* #### Grey Knights Razorback:
+*  **`Fire Support:`** *Ability*<br>
+  Add `Re-roll all possible failed wound rolls` ability to the **Global Modifiers** if attacker.

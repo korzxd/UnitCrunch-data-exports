@@ -1,6 +1,6 @@
 # Grey Knights
 
-## Update v0.2
+## Update v0.3
 ###### 05/09/2024
 ### General
 
@@ -13,6 +13,8 @@
 * Added Character units.
 
 * Added Battleline units.
+
+* Added Dedicated transports units.
 
 ### New Unit Profiles
 
@@ -32,3 +34,7 @@
 ## Battleline
 * **Brotherhood Terminator Squad**
 * **Strike Squad**
+
+## Dedicated transports
+* **Grey Knights Razorback**
+* **Grey Knights Rhino**

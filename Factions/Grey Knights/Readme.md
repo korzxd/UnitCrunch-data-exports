@@ -1,5 +1,6 @@
-# `Grey Knights` v0.3
+# `Grey Knights` v0.4
 ## General Information
+* This Index contains all units from the current `Index: Grey Knights` and the `Imperial Armour: Grey Knights`.
   
 * **`Leaders`** are all separate unit profiles acting as if they were a sole unit on the battlefield, they include their **`Leader`** ability but this should only be used in an **Advanced Profile**. (Refer to [Mixing_Profiles.md](/Guides/Mixing_Profiles.md))
   
@@ -80,3 +81,38 @@ Add `+1 to wound roll (melee only)` and `+1 to damage (melee only) (DAEMON only)
 * #### Grey Knights Razorback:
 *  **`Fire Support:`** *Ability*<br>
   Add `Re-roll all possible failed wound rolls` ability to the **Global Modifiers** if attacker.
+
+* #### Grey Knights Stormhawk Interceptor:
+*  **`Interceptor`** *Ability*<br>
+  Enable the profile ability `+1 to hit roll (ranged only) (if attacker) (FLY only)`.
+
+* #### Grey Knights Stormraven Gunship:
+*  **`Armoured Resilience`** *Ability*<br>
+  Enable the profile ability `-1 to damage (if defender)`.
+
+* #### Grey Knights Stormtalon Gunship:
+*  **`Strafing Run`** *Ability*<br>
+  Enable the profile ability `+1 to hit roll (ranged only) (if attacker) (excludes FLY)`.
+
+* #### Paladin Squad:
+*  **`Inner Fortitude (Psychic)`** *Ability* <br>
+  Enable the profile ability `Strength is greater than 5 : -1 to wound roll (if defender)`.
+
+* #### Purgation Squad:
+*  **`Astral Aim (Psychic)`** *Ability* <br>
+  Enable the profile abilities `Set BS to 4 (ranged only) (if attacker)` and `-1 to hit roll (ranged only) (if attacker)`.
+
+* #### Purifier Squad:
+*  **`Sanctity Of Purpose`** *Ability* <br>
+  Enable the profile abilities `+1 to hit roll (if attacker)` and `+1 to wound roll (if attacker)` as needed.
+
+* #### Servitors:
+*  **`Mindlock`** *Ability* <br>
+  Enable the profile abilities `Improve BS by 1 (ranged only) (if attacker)` and `Improve WS by 1 (melee only) (if attacker)` as needed.
+
+## Units - Imperial Armour
+
+* #### Grey Knights Thunderhawk Gunship:
+*  **`Thunderhawk Cluster Bombs:`** *Wargear* <br>
+  Ranged weapon profile, when using disable all `Re-roll hit roll` modifiers.
+

@@ -1,6 +1,6 @@
 # Grey Knights
 
-## Update v0.3
+## Update v0.4
 ###### 05/09/2024
 ### General
 
@@ -16,6 +16,8 @@
 
 * Added Dedicated transports units.
 
+* Added Other datasheets units.
+
 ### New Unit Profiles
 
 ## Characters
@@ -28,7 +30,7 @@
 * **Castellan Crowe**
 * **Grand Master**
 * **Grand Master Voldus**
-* **Grand Master In Nemesis Dreadknight**
+* **Grand Master in Nemesis Dreadknight**
 * **Kaldor Draigo**
 
 ## Battleline
@@ -38,3 +40,20 @@
 ## Dedicated transports
 * **Grey Knights Razorback**
 * **Grey Knights Rhino**
+
+## Other datasheets
+* **Grey Knights Land Raider**
+* **Grey Knights Land Crusader**
+* **Grey Knights Land Redeemer**
+* **Grey Knights Stormhawk Interceptor**
+* **Grey Knights Stormraven Gunship**
+* **Grey Knights Stormtalon Gunship**
+* **Grey Knights Thunderhawk Gunship**
+* **Grey Knights Venerable Dreadnought**
+* **Interceptor Squad**
+* **Grey Knights Land Raider Banisher**
+* **Nemesis Dreadknight**
+* **Paladin Squad**
+* **Purgation Squad**
+* **Purifier Squad**
+* **Servitors**

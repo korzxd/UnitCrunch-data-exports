@@ -1,7 +1,7 @@
 # Grey Knights
 
-## Update v0.4
-###### 05/09/2024
+## Update v0.5
+###### 06/09/2024
 ### General
 
 * Added Army and Detachment rules.

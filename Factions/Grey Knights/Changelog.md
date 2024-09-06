@@ -1,6 +1,6 @@
 # Grey Knights
 
-## Update v0.6
+## Update v1.0
 ###### 06/09/2024
 ### General
 

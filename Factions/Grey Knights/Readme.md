@@ -38,13 +38,13 @@ Add `+1 to wound roll (melee only)` and `+1 to damage (melee only) (DAEMON only)
 
 * #### Brother-Captain:
   *  **`Empyric Amplification (Psychic):`** *Leader Ability*<br>
-  Enable the profile ability `Critical hit : 1 extra hit (if attacker)`.
+  Enable the profile ability `Critical hit : 1 extra hit (if attacker) (if attack is psychic)`.
   *  **`Focused Mind (Psychic):`** *Ability*<br>
   Enable the profile ability `Re-roll all possible failed wound rolls (if attacker)`.
 
 * #### Brother-Captain Stern:
   *  **`Exemplar of the Silvered Host:`** *Leader Ability*<br>
-  Enable the profile ability `Critical wound : 1 mortal wound (if attacker)`.
+  Enable the profile ability `Critical wound : 1 mortal wound (melee only) (if attacker)`.
 
 * #### Brotherhood Champion:
   *  **`Martial Fury:`** *Ability*<br>
@@ -58,13 +58,13 @@ Add `+1 to wound roll (melee only)` and `+1 to damage (melee only) (DAEMON only)
   *  **`Santic Hood:`** *Leader Ability*<br>
   Enable the profile ability `Feel no pain 4+ (if attack is psychic)`.
   *  **`Vortex of Doom (Psychic):`** *Ability*<br>
-  Ranged weapon profiles for 2D3 and 2D6 damage.
+  Ranged weapon profile, when using disable all `Re-roll hit roll` modifiers.
 
 * #### Grand Master Voldus:
 *  **`Sanctuary (Psychic):`** *Leader Ability*<br>
   Enable the profile ability `-1 to hit roll (if defender)`.
 *  **`Hammer Aflame (Psychic):`** *Ability*<br>
-  Ranged weapon profiles for D3 and D3 + 3 damage.
+  Ranged weapon profile, when using disable all `Re-roll hit roll` modifiers.
 
 * #### Grand Master In Nemesis Dreadknight:
 *  **`Surge of Wrath (Psychic):`** *Ability*<br>
@@ -100,7 +100,7 @@ Add `+1 to wound roll (melee only)` and `+1 to damage (melee only) (DAEMON only)
 
 * #### Purgation Squad:
 *  **`Astral Aim (Psychic)`** *Ability* <br>
-  Enable the profile abilities `Set BS to 4 (ranged only) (if attacker)` and `-1 to hit roll (ranged only) (if attacker)`.
+  Enable the profile abilities `Only hit on a 4+ (unmodified) (irrespective of attack modifiers) (if attacker)` and `-1 to hit roll (ranged only) (if attacker)`.
 
 * #### Purifier Squad:
 *  **`Sanctity Of Purpose`** *Ability* <br>

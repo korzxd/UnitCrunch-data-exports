@@ -9,8 +9,8 @@ Below are some related links.
 * https://github.com/dixhuit/unitcrunch-issue-tracker
 
 ## :loudspeaker: Latest Changes
-
-* New Faction: **Orks** are now available!
+* Updated all of the Data exports to be exported from version 0.72.1 of UnitCrunch, this should now fix any import issues.
+* Due to the update all of the latest releases have been cleared. You can find each factions Data Export within their sub folder.
 
 ## General Information
 The Factions folder has a directory for each 40k Faction that we have a Data Export for, new Factions will be added over time.
@@ -49,4 +49,5 @@ There are also quick start templates in the `Templates` directory.
 
 ## :clipboard: Todo list
 - [ ] Next Faction - Leagues of Votann
+- [ ] Update existing factions to match latest codex releases & dataslate
 - [ ] Update **Imperial Agents** with the new Codex changes and to become compatible with **Advanced Profiles**

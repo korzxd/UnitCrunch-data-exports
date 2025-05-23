@@ -1,4 +1,4 @@
-# Adeptus Custodes Index v1.0
+# Adeptus Custodes Index v1.1
 ## General Information
 
 * This Index contains all units from the current `Codex: Adeptus Custodes` and the `Imperial Armour: Adeptus Custodes`.

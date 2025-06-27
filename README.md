@@ -9,6 +9,7 @@ Below are some related links.
 * https://github.com/dixhuit/unitcrunch-issue-tracker
 
 ## :loudspeaker: Latest Changes
+* Leagues of Votann added
 * Updated all of the Data exports to be exported from version 0.72.1 of UnitCrunch, this should now fix any import issues.
 * Due to the update all of the latest releases have been cleared. You can find each factions Data Export within their sub folder.
 
@@ -33,9 +34,12 @@ Current list of Faction Data Exports that have been updated for use with **Advan
 * **Chaos Daemons**
 * **Drukhari**
 * **Genestealer Cults**
+* **Grey Knights**
+* **Leagues of Votann**
 * **Orks**
 * **Space Marines**
   * **Blood Angels**
+  * **Black Templars**
 * **T'au Empire**
 
 If you wish to update your existing Data Export take a look at that Factions Patches Folder and read the [Patches.md](/Guides/Patches.md) guide on how to import them.
@@ -48,6 +52,5 @@ If you wish to contribute please read the `contributing.md`, here we outline the
 There are also quick start templates in the `Templates` directory.
 
 ## :clipboard: Todo list
-- [ ] Next Faction - Leagues of Votann
 - [ ] Update existing factions to match latest codex releases & dataslate
 - [ ] Update **Imperial Agents** with the new Codex changes and to become compatible with **Advanced Profiles**

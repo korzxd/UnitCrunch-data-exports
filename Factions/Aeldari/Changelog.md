@@ -1,6 +1,18 @@
 # Aeldari Index
 
-## Update v1.2
+## Update v1.3
+###### 30/06/2025
+### General
+!TODO
+
+* Updated codex changes
+* Updated to Balance Dataslate June 2025
+* Updated Points
+* Changed Readme to reflect changes
+
+<details>
+<summary><h2>Update v1.2</h2></summary>
+
 ###### 02/08/2024
 ### General
 * Changed Indirect Fire weapon profiles to match the Dataslate.
@@ -48,6 +60,7 @@ The following units have been modified. (Most of these have been updated to be u
   * Windriders x3
   * Yvraine
 
+</details>
 <details>
 <summary><h2>Update v1.1</h2></summary>
 

@@ -1,6 +1,6 @@
-# Aeldari Index v1.2
+# Aeldari Codex v1.3
 ## General Information
-* This Index contains all units from the current `Index: Aeldari` and the `Imperial Armour: Aeldari`.
+* This Index contains all units from the current `Codex: Aeldari` and the `Imperial Armour: Aeldari`.
   
 * **`Leaders`** are all separate unit profiles acting as if they were a sole unit on the battlefield, they include their **`Leader`** ability but this should only be used in an **Advanced Profile**. (Refer to [Mixing_Profiles.md](/Guides/Mixing_Profiles.md))
   
@@ -13,20 +13,6 @@
 * All unit profiles have the weapons shown on their datasheet unless specified.
   
 * Some Units have Abilities in the form of a Weapon Profile these will have `- (Ability)` at the end of their weapon name.
-
-## Army Rule
-* **`Strands of Fate:`** <br> This Army rule cannot be fully simulated within Unitcrunch and below is the process i use to emulate 6's for the `hit roll`.
-    1. Select the weapon to emulate and follow the applicable step below.
-       * **`Count per unit > 1 & Attacks > 1:`** Subtract 1 from Count per unit & duplicate the weapon, then subtract 1 from the cloned weapon Attacks & duplicate again, then set that duplicate weapon Attacks to 1.
-       * **`Count per unit > 1 & Attacks = 1:`** Subtract 1 from Count per unit & duplicate the weapon.
-       * **`Count per unit = 1 & Attacks > 1:`** Subtract 1 from Attacks & duplicate that weapon, then set the cloned weapon Attacks to 1.
-       * **`Count per unit = 1 & Attacks = 1:`** Proceed to the next step.
-    2. Add the preset ability `Always hit`/`TORRENT` to that weapon.
-
-## Detachment Rule
-* **`Battle Host - Unparalleled Foresight:`**
-  * Add `Re-roll one possible failed hit roll` to the weapon you want to simulate.
-  * Add `Re-roll one possible failed wound roll` to the weapon you want to simulate.
 
 ## Units - Standard
 

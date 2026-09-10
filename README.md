@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> With the changes to the import system used by UnitCrunch this repo is now obsolete, thank you very much for everyones contributions over the years.
+
 # UnitCrunch-data-exports
 A collection repository of Warhammer 40k factions. These .txt files are Data Exports that can be imported into the popular web application UnitCrunch.
 
